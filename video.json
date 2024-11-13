@@ -1,0 +1,26 @@
+[
+  {
+    "label": "PixVerse by Elhos Technology",
+    "description": "uses AI to turn your text into high-quality videos.",
+    "link": "https://app.pixverse.ai/",
+    "imageUrl": "https://pixverse.org/wp-content/uploads/2024/02/pixverse-icon.png"
+  },
+  {
+    "label": "Background Remover by Adobe",
+    "description": "free online tool uses AI to remove backgrounds from videos, but requires a paid subscription to download the final product.",
+    "link": "https://www.adobe.com/express/feature/video/remove-background",
+    "imageUrl": "https://helpx-prod.scene7.com/is/image/HelpxProd/image989730?$png$&jpegSize=200&wid=1263"
+  },
+  {
+    "label": "Lumalabs by Luma AI",
+    "description": "An AI model that makes high quality, realistic videos fast from text and images",
+    "link": "https://lumalabs.ai/dream-machine/creations",
+    "imageUrl": "https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/og-image.png"
+  },
+  {
+    "label": "Genmo by Genmo",
+    "description": "Open video generation model.",
+    "link": "https://www.genmo.ai/",
+    "imageUrl": "https://www.genmo.ai/_next/static/media/blue-right.e5278106.png"
+  }
+]

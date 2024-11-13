@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Hedra by Hedra",
+    "description": "This platform uses AI to turn still images into talking characters with facial expressions.",
+    "link": "https://www.hedra.com/",
+    "imageUrl": "https://www.hedra.com/og.png"
+  },
+  {
+    "label": "Face Swapper",
+    "description": "AI-powered tool for swapping faces in images and videos seamlessly.",
+    "link": "https://faceswapper.ai/",
+    "imageUrl": "https://faceswapapp.ai/hero.png"
+  }
+]

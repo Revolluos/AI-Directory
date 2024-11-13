@@ -1,0 +1,68 @@
+[
+  {
+    "label": "Gemini by Google",
+    "description": "Gemini is a powerful AI assistant that can help with tasks, provide information, and generate creative content across various formats.",
+    "link": "https://gemini.google.com/",
+    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png"
+  },
+  {
+    "label": "Perplexity (Private Company)",
+    "description": "An AI search engine that provides answers with sources (conversational).",
+    "link": "https://www.perplexity.ai/",
+    "imageUrl": "https://1000logos.net/wp-content/uploads/2024/08/Perplexity-Logo.png"
+  },
+  {
+    "label": "ChatGPT by OpenAI",
+    "description": "An AI chatbot that generates human-like text, answers questions, and performs tasks.",
+    "link": "https://chatgpt.com/",
+    "imageUrl": "https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png"
+  },
+  {
+    "label": "Copilot by Microsoft",
+    "description": "An AI assistant that helps with tasks like coding, writing, and summarizing.",
+    "link": "https://copilot.microsoft.com/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1200px-Microsoft_365_Copilot_Icon.svg.png"
+  },
+  {
+    "label": "Claude by Anthropic",
+    "description": "An AI assistant to help with tasks like writing, summarizing, and answering questions.",
+    "link": "https://claude.ai/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Claude_Ai.svg/1024px-Claude_Ai.svg.png"
+  },
+  {
+    "label": "Meta by Facebook",
+    "description": "An AI for personalized content recommendations, image and video generation.",
+    "link": "https://www.meta.ai/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/2560px-Meta_Platforms_Inc._logo.svg.png"
+  },
+  {
+    "label": "Pi by Inflection AI",
+    "description": "An empathetic personal AI assistant that learns and chats.",
+    "link": "https://pi.ai/",
+    "imageUrl": "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/05/01220014/pi-ai5999.logowik.com.webp"
+  },
+  {
+    "label": "MiniPerplx by independent creators",
+    "description": "A minimalistic AI search engine designed to deliver answers in the simplest and most elegant way possible.",
+    "link": "https://mplx.run/search",
+    "imageUrl": "https://cdn-1.webcatalog.io/catalog/miniperplx/miniperplx-icon-filled-256.webp?v=1727319987224"
+  },
+  {
+    "label": "ChatGPT Free Online by ChatGPT 4 Online",
+    "description": "A powerful AI tool by ChatGPT 4 Online that uses the capabilities of natural language processing (NLP).",
+    "link": "https://chatgpt4online.org/chatgpt-free-online/#chat",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm7rWa7WRPBuZwK8Eh5NPDzWF388fg1yQiw&s"
+  },
+  {
+    "label": "You.com by You.com, Inc.",
+    "description": "Enhance your productivity with AI.",
+    "link": "https://you.com/?chatMode=default",
+    "imageUrl": "https://cdn.you.com/img/shared/ydc-og-image-rebrand.png"
+  },
+  {
+    "label": "Poe  by Quora",
+    "description": "An online platform that allows users to interact with various AI chatbots, including popular ones like ChatGPT, Gemini, and Claude. ",
+    "link": "https://poe.com/",
+    "imageUrl": "https://psc2.cf2.poecdn.net/assets/_next/static/media/poeFullMultibot.aa56caf5.svg"
+  }  
+]

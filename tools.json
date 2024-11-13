@@ -1,0 +1,134 @@
+[
+  {
+    "label": "Consensus",
+    "description": "AI-powered search engine helps researchers find relevant academic papers and gain insights from them",
+    "link": "https://consensus.app/",
+    "imageUrl": "https://consensus.app/images/consensus-card.png"
+  },
+  {
+    "label": "OpenUI by Wandb",
+    "description": "AI tool lets you describe your desired user interface and generates the corresponding HTML code, with an open-source license.",
+    "link": "https://openui.fly.dev/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTzXjNxK1-0IvLhAyK9eeAcOjE0mmedhZuVOA&s"
+  },
+  {
+    "label": "Quick Reference",
+    "description": "Cheatsheets and quick references contributed by open source angels",
+    "link": "https://quickref.me/",
+    "imageUrl": "https://quickref.me/images/favicon.png"
+  },
+  {
+    "label": "AI Search",
+    "description": "Search the most complete AI tools database.",
+    "link": "https://ai-search.io",
+    "imageUrl": "https://ai-search.io/favicon.svg"
+  },
+  {
+    "label": "There's An AI For That.",
+    "description": "Use AI to help you find the perfect tool for any task.",
+    "link": "https://free.theresanaiforthat.com/children-s-stories/?ref=suggest",
+    "imageUrl": "https://free.theresanaiforthat.com/favicon-large.png"
+  },
+  {
+    "label": "Formshare by ChatBotKit",
+    "description": "Lets you build interactive forms with conversation-like AI.",
+    "link": "https://formshare.ai/",
+    "imageUrl": "https://formshare.ai/opengraph-image.png?9928de1c5a85785d"
+  },
+  {
+    "label": "calligrapher.ai",
+    "description": "A web-based AI tool that enables users to generate realistic computer-generated handwriting.",
+    "link": "https://www.calligrapher.ai/",
+    "imageUrl": "https://www.calligrapher.ai/og_image.png"
+  },
+  {
+    "label": "Gravity Write by GravityAI",
+    "description": "AI writing tool helps you create different kinds of content, like blog posts and social media content.",
+    "link": "https://app2.gravitywrite.com/home",
+    "imageUrl": "https://app2.gravitywrite.com//storage/17/6414225450e31_PNG---GW-horizontal-logo-dual-dark.png"
+  },
+  {
+    "label": "AI Book Writer by Toolbaz ✓$0",
+    "description": "Unleash Your Creativity, One Page at a Time.",
+    "link": "https://toolbaz.com/writer/ai-book-writer",
+    "imageUrl": "https://toolbaz.com/assets/img/ToolBaz.png?ezimgfmt=rs:137x32/rscb1/ngcb1/notWebP"
+  },
+  {
+    "label": "AI Story Generator by WriterHand ✓$0",
+    "description": "Let the AI story generator take you on a journey beyond your wildest dreams!",
+    "link": "https://writerhand.com/tools/ai-story-generator",
+    "imageUrl": "https://writerhand.com/assets/img/logo3.webp"
+  },
+  {
+    "label": "Audiobox by Meta",
+    "description": "Create an audio story with AI voices and sounds.",
+    "link": "https://audiobox.metademolab.com/storymaker",
+    "imageUrl": "https://audiobox.metademolab.com/assets/landing_illustration-507b4397.jpg"
+  },
+  {
+    "label": "NotebookLM by Google",
+    "description": "Free AI research assistant summarizes your uploaded documents, answers questions based on them, and even generates audio overviews for on-the-go learning.",
+    "link": "https://notebooklm.google/",
+    "imageUrl": "https://notebooklm.google/_/static/v4/og/notebook_lm_share.png"
+  },
+  {
+    "label": "Illuminate by Google",
+    "description": "Transform research papers into AI-generated audio summaries.",
+    "link": "https://illuminate.google.com/",
+    "imageUrl": "https://img.icons8.com/?size=77&id=19242&format=png"
+  },
+  {
+    "label": "SuperPodcast by superpodcast.ai",
+    "description": "Create Podcast with AI and talk with the AI Hosts.",
+    "link": "https://studio.superpodcast.ai/discover/",
+    "imageUrl": "https://cdn.prod.website-files.com/670f497f87d182fd0d8f08c6/6712ead112d7e4cce675825f_Open-graph-final.jpg"
+  },
+  {
+    "label": "CapCut Magic by ByteDance",
+    "description": "A free video editor with AI-powered features like background removal, auto-cutting, and image transformation.",
+    "link": "https://www.capcut.com/magic-tools",
+    "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/3f7c59f36d529f90-1200.png"
+  },
+  {
+    "label": "Remove Background by Adobe",
+    "description": "Uses AI to automatically remove backgrounds from images, letting you download them with transparency.",
+    "link": "https://www.adobe.com/express/feature/image/remove-background",
+    "imageUrl": "https://helpx-prod.scene7.com/is/image/HelpxProdLoc/remove-background-cta-mobile?$png$&jpegSize=100&wid=500"
+  },
+  {
+    "label": "Quicktools by Picart",
+    "description": "Free AI Writer - Quickly generate text for social media, websites, documents, ads, and other online activities.",
+    "link": "https://tools.picsart.com/text/ai-writer/create/",
+    "imageUrl": "https://pastatic.picsart.com/cms-pastatic/227d1042-e9d3-4f4d-b720-0e1505dfd52c.webp"
+  },
+  {
+    "label": "QuillBot by QuillBot LLC",
+    "description": "AI writing tool helps rephrase, polish, and check grammar.",
+    "link": "https://quillbot.com/",
+    "imageUrl": "https://assets.quillbot.com/images/og_quillbot.png"
+  },  
+  {
+    "label": "Caktus by AIChief experts",
+    "description": "AI writing assistant helps students with assignments and studying.",
+    "link": "https://caktus.ai/",
+    "imageUrl": "https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fe2c066d76c1f8df738d1acebc86e1802.cdn.bubble.io%2Fd147%2Ff1696267258982x396741473321420740%2FCaktus%2520logo%2520horiz%2520color%25201%2520%25281%2529.webp"
+  },
+  {
+    "label": "LTX Studio by LTX Studio LLC",
+    "description": "AI-powered platform lets you create storyboards and videos from text prompts.",
+    "link": "https://ltx.studio/",
+    "imageUrl": "https://cdn.prod.website-files.com/65bb6b901cb133d784d16166/65dedd8f7e323a9e5013dbb4_LTX-Studio-main-logo.svg"
+  },
+  {
+    "label": "Childrenbook Generator",
+    "description": "Create captivating stories with vibrant characters, moral lessons, and engaging plots tailored for 3-7 year olds.",
+    "link": "https://free.theresanaiforthat.com/@hanansaeed/free-childrenbook-generator/",
+    "imageUrl": "https://free.theresanaiforthat.com/favicon-large.png"
+  },
+  {
+    "label": "AI Article Writer by ChatGPT 4 Online",
+    "description": "AI Article Writer utilizes advanced natural language processing algorithms to generate high-quality articles on a wide range of topics.",
+    "link": "https://chatgpt4online.org/ai-writer/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm7rWa7WRPBuZwK8Eh5NPDzWF388fg1yQiw&s"
+  }
+]

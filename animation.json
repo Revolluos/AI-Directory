@@ -1,0 +1,20 @@
+[
+  {
+    "label": "Adobe Express by Adobe",
+    "description": "Create animations with lip syncing based on your voice recording (free with a two-minute limit)",
+    "link": "https://new.express.adobe.com/tools/animate-from-audio",
+    "imageUrl": "https://media.licdn.com/dms/image/D5612AQFsVmLmbm10Ew/article-cover_image-shrink_600_2000/0/1689120093276?e=2147483647&v=beta&t=NMkj4T14g_5lpMPHH7gf_kn06m8u1aVhyRiJ4aBfzec"
+  },
+  {
+    "label": "Immersity AI by LeiaPix",
+    "description": "AI-powered platform lets you convert regular images and videos into 3D experiences.",
+    "link": "https://app.immersity.ai/image",
+    "imageUrl": "https://static.immersity.ai/img/og-image.png"
+  },
+  {
+    "label": "Animated Drawings by Meta Platforms, Inc.",
+    "description": "Transform static sketches into fun animations using AI.",
+    "link": "https://sketch.metademolab.com/canvas",
+    "imageUrl": "https://sketch.metademolab.com/img_share.jpg"
+  }
+]

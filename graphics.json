@@ -1,0 +1,104 @@
+[
+  {
+    "label": "RunWay by a Private Company",
+    "description": "Runway is an AI-powered creative platform that enables users to generate and edit videos from text prompts, facilitating innovative content creation.",
+    "link": "https://app.runwayml.com",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Runway_Logo.png/2560px-Runway_Logo.png"
+  },
+  {
+    "label": "Ideogram by Ideogram, Inc.",
+    "description": "A free-to-use AI tool that turns your ideas into stunning images, in a matter of seconds.",
+    "link": "https://ideogram.ai/",
+    "imageUrl": "data:image/jpeg;base64,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"
+  },
+  {
+    "label": "Stable Diffusion by Stability AI",
+    "description": "Create beautiful art using stable diffusion ONLINE for free.",
+    "link": "https://stablediffusionweb.com/",
+    "imageUrl": "https://stablediffusionweb.com/images/logo.png"
+  },  
+  {
+    "label": "Dreamina by ByteDance",
+    "description": "Dreamina is an AI art generator that transforms text prompts into stunning digital images, enabling users to unleash their creativity effortlessly.",
+    "link": "https://dreamina.capcut.com/ai-tool/home",
+    "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/growth/dreamina/static/image/girl-static.206bd1ec.webp"
+  },
+  {
+    "label": "Sea Art by SeaArt, Inc.",
+    "description": "Lets you create art using text prompts, offering a free and accessible AI art generation experience.",
+    "link": "https://www.seaart.ai/workFlowAppDetail/cqofr0le878c73dckp1g",
+    "imageUrl": "https://image.cdn2.seaart.ai/20240805/1ed060e3-0f19-4d09-bbc1-5d41b13338cc.jpg"
+  },
+  {
+    "label": "AI face swap by AI FACE SWAP.",
+    "description": "Swap Your Face Online with Our AI Face Swapper",
+    "link": "https://aifaceswap.io/#face-swap-playground",
+    "imageUrl": "https://art-global.yimeta.ai/aifaceswap/image/ai-face-swap-logo-9c4c296fcfd5f680858de17441f1504c.webp"
+  },
+  {
+    "label": "Dream by WOMBO.",
+    "description": "Imagine new worlds with AI",
+    "link": "https://dream.ai/create",
+    "imageUrl": "https://dream.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheader.628c9d8e.png&w=1200&q=75"
+  },
+  {
+    "label": "Wirestock by Wirestock Inc.",
+    "description": "Manage the submission and sale of stock images across various marketplaces.",
+    "link": "https://wirestock.io/",
+    "imageUrl": "https://framerusercontent.com/images/hlVZRRQWckhrgopCacYoycTUY28.png"
+  },
+  {
+    "label": "Image Creator by Microsoft Bing",
+    "description": "AI-powered text-to-image generator transforms your words into stunning visuals in seconds. Perfect for quick and easy image creation.",
+    "link": "https://www.bing.com/images/create",
+    "imageUrl": "https://r.bing.com/rp/OyPexvO0ARndhcIVoOJv7iFmsRI.svg"
+  },
+  {
+    "label": "Skybox AI by Blockade Labs",
+    "description": "Generate immersive 360° environments.",
+    "link": "https://skybox.blockadelabs.com/",
+    "imageUrl": "https://assets.blockadelabs.com/assets/social-share.jpg"
+  },  
+  {
+    "label": "Graphic Design by Google",
+    "description": "Create high-quality visual assets rapidly by inputting text prompts to generate detailed and stylistically diverse images.",
+    "link": "https://gemini.google.com/",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg"
+  },
+  {
+    "label": "ImageFX by Google",
+    "description": "Create photo-realistic images from simple text prompts",
+    "link": "https://aitestkitchen.withgoogle.com/tools/image-fx",
+    "imageUrl": "https://cdn-1.webcatalog.io/catalog/google-ai-test-kitchen/google-ai-test-kitchen-icon-filled-256.webp?v=1716618507248"
+  },
+  {
+    "label": "Craiyon by Craiyon LLC.",
+    "description": "Create AI Art with this free AI image generator.",
+    "link": "https://www.craiyon.com/",
+    "imageUrl": "https://pics.craiyon.com/2024-09-06/ealzLDfZTTydoyfQH9HVeA.webp"
+  },  
+  {
+    "label": "SVGStud.io by GenAI Works",
+    "description": "Search or generate scalable vector graphics (SVGs) for free",
+    "link": "https://svgstud.io/generator.html",
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://svgstud.io&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+  },
+  {
+    "label": "Images Generator Plugins",
+    "description": "Create custom, high-quality vector designs effortlessly.",
+    "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  },
+  {
+    "label": "CartoonCrafter",
+    "description": "Your AI-powered cartoon artist. Create stunning, diverse cartoons with rotating styles, vibrant palettes, and intricate details.",
+    "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  },
+  {
+    "label": "Music Cover Image Generator",
+    "description": "Create stunning music album covers with AI.",
+    "link": "https://free.theresanaiforthat.com/@rajibgartia/music-cover-image-generator/?ref=search&term=music",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  }
+]

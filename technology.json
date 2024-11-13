@@ -1,0 +1,38 @@
+[
+  {
+    "icon": "💻",
+    "label": "Web Development",
+    "description": "Create modern, responsive websites using HTML, CSS, and JavaScript frameworks",
+    "link": "#web-development"
+  },
+  {
+    "icon": "📱",
+    "label": "Mobile Apps",
+    "description": "Build native and cross-platform mobile applications for iOS and Android",
+    "link": "#mobile-apps"
+  },
+  {
+    "icon": "🤖",
+    "label": "AI & Machine Learning",
+    "description": "Develop intelligent systems using cutting-edge AI and ML technologies",
+    "link": "#ai-ml"
+  },
+  {
+    "icon": "☁️",
+    "label": "Cloud Computing",
+    "description": "Deploy and scale applications using cloud infrastructure and services",
+    "link": "#cloud"
+  },
+  {
+    "icon": "🔒",
+    "label": "Cybersecurity",
+    "description": "Protect systems and data with advanced security protocols and tools",
+    "link": "#security"
+  },
+  {
+    "icon": "🎮",
+    "label": "Game Development",
+    "description": "Create engaging games using modern game engines and technologies",
+    "link": "#games"
+  }
+]

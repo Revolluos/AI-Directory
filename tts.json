@@ -1,0 +1,32 @@
+[
+  {
+    "label": "||ElevenLabs by ElevenLabs ©",
+    "description": "Create realistic AI voices in many languages for projects like audiobooks.",
+    "link": "https://elevenlabs.io/",
+    "imageUrl": "https://eleven-public-cdn.elevenlabs.io/payloadcms/x1b6d7s30d-ElevenLabsBlogLogo.webp"
+  },
+  {
+    "label": "ttsynth by ttsynth.com ©",
+    "description": "Quickly convert text to speech with multiple languages and natural voices.",
+    "link": "https://ttsynth.com/",
+    "imageUrl": "https://ttsynth.com/logo.webp"
+  },
+  {
+    "label": "text to speech by texttospeech.im ©",
+    "description": "Experience lifelike audio with our advanced text to speech tool. Easily generate and download high-quality speech for all your needs.",
+    "link": "https://texttospeech.im/",
+    "imageUrl": "https://texttospeech.im/logo.webp"
+  },
+  {
+    "label": "Free text to speech ©",
+    "description": "Uses the Microsoft AI speech library to synthesize unique reading audio",
+    "link": "https://www.text-to-speech.online/",
+    "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
+  },
+  {
+    "label": "Voice Models",
+    "description": "A platform for creating and sharing AI-generated voice models.",
+    "link": "https://voice-models.com/",
+    "imageUrl": "https://voice-models.com/assets/media/logos/logo-dark.png"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "label": "Space Type Generator",
+    "description": "An online tool that allows users to create animated text in a simple and user-friendly manner.",
+    "link": "https://spacetypegenerator.com/",
+    "imageUrl": "https://avatars.githubusercontent.com/u/43862107?v=4"
+  },
+  {
+    "label": "AI Poem Generator by ChatGPT 4 Online",
+    "description": "can generate poems of a variety of styles including haikus, sonnets (Shakespearian, Petrarchan, Spenserian, Donne’s).",
+    "link": "https://chatgpt4online.org/ai-poem-generator/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxG4V6XpTplyGfBNMXLC0aTPkGqYFByFdpg&s"
+  }
+]
