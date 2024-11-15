@@ -76,6 +76,20 @@
     "description": "Create AI Art with this free AI image generator.",
     "link": "https://www.craiyon.com/",
     "imageUrl": "https://pics.craiyon.com/2024-09-06/ealzLDfZTTydoyfQH9HVeA.webp"
+  },
+  {
+    "label": "Coloring Book Pages by Playground.com",
+    "description": "Modify templates with AI to create your own coloring book pages. [Create 15 free images every 3 hours]",
+    "link": "https://playground.com/design/c/coloring-book-pages",
+    "_imageUrl": "https://playground.com/favicon.ico",
+    "imageUrl": "https://images.playground.com/90d3fb7b-044a-4592-8ccc-41e207f7293d.jpeg"
+  },
+  {
+    "label": "Logos by Playground.com",
+    "description": "Modify templates with AI to create your own logos. [Create 15 free images every 3 hours]",
+    "link": "https://playground.com/design/c/logo",
+    "_imageUrl": "https://playground.com/favicon.ico",
+    "imageUrl": "https://images.playground.com/eaf8dc13a48f4b7c80b4c56b9f366a20.jpeg"
   },  
   {
     "label": "SVGStud.io by GenAI Works",
