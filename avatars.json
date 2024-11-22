@@ -1,12 +1,18 @@
 [
   {
-    "label": "Hedra by Hedra",
+    "label": "by Hedera Hashgraph LLC",
     "description": "This platform uses AI to turn still images into talking characters with facial expressions.",
     "link": "https://www.hedra.com/",
     "imageUrl": "https://www.hedra.com/og.png"
   },
   {
-    "label": "Face Swapper",
+    "label": "by Joshua Xu and Wayne Liang",
+    "description": "Create 3 free videos per month using lifelike avatars that read your script with a natural voice.",
+    "link": "https://app.heygen.com/home",
+    "imageUrl": "https://app.heygen.com/icons/heygen/wordmark/png/heygen_logo_full_black_old_purple.png"
+  },  
+  {
+    "label": "Face Swapper by Liam Nakamura",
     "description": "AI-powered tool for swapping faces in images and videos seamlessly.",
     "link": "https://faceswapper.ai/",
     "imageUrl": "https://faceswapapp.ai/hero.png"
