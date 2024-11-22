@@ -1,9 +1,9 @@
 [
   {
-    "label": "Gemini by Google",
+    "label": "by Google",
     "description": "Gemini is a powerful AI assistant that can help with tasks, provide information, and generate creative content across various formats.",
     "link": "https://gemini.google.com/",
-    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_favicon_f069958c85030456e93de685481c559f160ea06b.png"
+    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png"
   },
   {
     "label": "Perplexity (Private Company)",
@@ -18,25 +18,25 @@
     "imageUrl": "https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png"
   },
   {
-    "label": "Copilot by Microsoft",
+    "label": "by Microsoft",
     "description": "An AI assistant that helps with tasks like coding, writing, and summarizing.",
     "link": "https://copilot.microsoft.com/",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Microsoft_365_Copilot_Icon.svg/1200px-Microsoft_365_Copilot_Icon.svg.png"
+    "imageUrl": "https://cdn-dynmedia-1.microsoft.com/is/image/microsoftcorp/msft-copilot-logo-big?fmt=png-alpha&scl=1"
   },
   {
-    "label": "Claude by Anthropic",
+    "label": "by Anthropic",
     "description": "An AI assistant to help with tasks like writing, summarizing, and answering questions.",
     "link": "https://claude.ai/",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Claude_Ai.svg/1024px-Claude_Ai.svg.png"
+    "imageUrl": "https://claude.ai/images/claude_ogimage.png"
   },
   {
-    "label": "Meta by Facebook",
+    "label": "by Facebook",
     "description": "An AI for personalized content recommendations, image and video generation.",
     "link": "https://www.meta.ai/",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Meta_Platforms_Inc._logo.svg/2560px-Meta_Platforms_Inc._logo.svg.png"
   },
   {
-    "label": "Pi by Inflection AI",
+    "label": "by Inflection AI",
     "description": "An empathetic personal AI assistant that learns and chats.",
     "link": "https://pi.ai/",
     "imageUrl": "https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/05/01220014/pi-ai5999.logowik.com.webp"
@@ -54,13 +54,19 @@
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm7rWa7WRPBuZwK8Eh5NPDzWF388fg1yQiw&s"
   },
   {
-    "label": "You.com by You.com, Inc.",
+    "label": "by Mistral AI",
+    "description": "Allows users to interact with various models through chat. ",
+    "link": "https://chat.mistral.ai/chat",
+    "imageUrl": "https://chat.mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fle-chat-logo-large-light.b98da676.png&w=384&q=75"
+  },
+  {
+    "label": "by You.com, Inc.",
     "description": "Enhance your productivity with AI.",
     "link": "https://you.com/?chatMode=default",
     "imageUrl": "https://cdn.you.com/img/shared/ydc-og-image-rebrand.png"
-  },
+  },  
   {
-    "label": "Poe  by Quora",
+    "label": "by Quora",
     "description": "An online platform that allows users to interact with various AI chatbots, including popular ones like ChatGPT, Gemini, and Claude. ",
     "link": "https://poe.com/",
     "imageUrl": "https://psc2.cf2.poecdn.net/assets/_next/static/media/poeFullMultibot.aa56caf5.svg"
