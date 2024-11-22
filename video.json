@@ -1,10 +1,16 @@
 [
   {
-    "label": "PixVerse by Elhos Technology",
+    "label": "by Elhos Technology",
     "description": "uses AI to turn your text into high-quality videos.",
     "link": "https://app.pixverse.ai/",
     "imageUrl": "https://pixverse.org/wp-content/uploads/2024/02/pixverse-icon.png"
   },
+  {
+    "label": "by MiniMax",
+    "description": "Reimagine Video Creation : Simple. Joyful. AI-Powered Video Generator.",
+    "link": "https://hailuoai.video/",
+    "imageUrl": "https://hailuo.org/wp-content/uploads/2024/10/Hailuo-AI-MiniMax.jpg"
+  },   
   {
     "label": "Background Remover by Adobe",
     "description": "free online tool uses AI to remove backgrounds from videos, but requires a paid subscription to download the final product.",
