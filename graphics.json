@@ -1,147 +1,211 @@
 [
   {
-    "label": "Leonardo.ai by Canva",
+    "label": "by Canva",
     "description": "Create visual assets from illustrations to marketing materials with unprecedented quality, speed, and style-consistency.",
     "link": "https://app.leonardo.ai/image-generation",
-    "imageUrl": "https://leonardo-cdn.b-cdn.net/wp-content/uploads/2022/12/Frame-481794-1.png"
+    "imageUrl": "../images/graphics/leonardo-ai.jpg"
   },
   {
-    "label": "RunWay by a Private Company",
+    "label": " by Elon Musk",
+    "description": "Grok's new image generation model.",
+    "link": "https://x.com/i/grok",
+    "imageUrl": "https://www.pcworld.com/wp-content/uploads/2024/07/grok-logo.jpg?quality=50&strip=all"
+  },  
+  {
+    "label": "by a Private Company",
     "description": "Runway is an AI-powered creative platform that enables users to generate and edit videos from text prompts, facilitating innovative content creation.",
     "link": "https://app.runwayml.com",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Runway_Logo.png/2560px-Runway_Logo.png"
+    "imageUrl": "../images/graphics/runway.jpg"
   },  
   {
-    "label": "Ideogram by Ideogram, Inc.",
+    "label": "by Ideogram, Inc.",
     "description": "A free-to-use AI tool that turns your ideas into stunning images, in a matter of seconds.",
     "link": "https://ideogram.ai/",
-    "imageUrl": "data:image/jpeg;base64,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"
+    "imageUrl": "../images/graphics/ideogram.jpg"
   },
   {
-    "label": "Stable Diffusion by Stability AI",
+    "label": "by Stability AI",
     "description": "Create beautiful art using stable diffusion ONLINE for free.",
     "link": "https://stablediffusionweb.com/",
-    "imageUrl": "https://stablediffusionweb.com/images/logo.png"
+    "imageUrl": "../images/graphics/stable-diffusion.jpg"
+  },
+  {
+    "label": "Stable Difffusion",
+    "description": "Create stunning AI art from text prompts with Stable Diffusion. Transform your ideas into images in seconds, for free and without watermarks..",
+    "link": "https://stabledifffusion.com/tools/ai-image-generator",
+    "imageUrl": "https://stabledifffusion.com/logo.svg"
   },  
+    {
+    "label": "Fooocus",
+    "description": "Fooocus is an open source generative artificial intelligence program that allows users to generate images from a text prompt.",
+    "link": "https://fooocus.one/playground",
+    "imageUrl": "https://chatgptprompt.cc/wp-content/uploads/2023/08/image-37.png"
+  },
   {
     "label": "Dreamina by ByteDance",
     "description": "Dreamina is an AI art generator that transforms text prompts into stunning digital images, enabling users to unleash their creativity effortlessly.",
     "link": "https://dreamina.capcut.com/ai-tool/home",
-    "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/growth/dreamina/static/image/girl-static.206bd1ec.webp"
+    "imageUrl": "../images/graphics/capcut-ai.jpg"
   },
   {
-    "label": "Sea Art by SeaArt, Inc.",
+    "label": "Create Art by SeaArt, Inc.",
     "description": "Lets you create art using text prompts, offering a free and accessible AI art generation experience.",
     "link": "https://www.seaart.ai/workFlowAppDetail/cqofr0le878c73dckp1g",
-    "imageUrl": "https://image.cdn2.seaart.ai/20240805/1ed060e3-0f19-4d09-bbc1-5d41b13338cc.jpg"
+    "imageUrl": "../images/graphics/sea-art.jpg"
   },
   {
-    "label": "AI face swap by AI FACE SWAP.",
-    "description": "Swap Your Face Online with Our AI Face Swapper",
+    "label": "AI Face Swap",
+    "description": "Swap Your Face Online with AI Face Swapper",
     "link": "https://aifaceswap.io/#face-swap-playground",
-    "imageUrl": "https://art-global.yimeta.ai/aifaceswap/image/ai-face-swap-logo-9c4c296fcfd5f680858de17441f1504c.webp"
+    "imageUrl": "../images/graphics/faceswap.jpg"
   },
   {
     "label": "Face Swapping.",
     "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
     "link": "https://remaker.ai/face-swap-free/",
-    "imageUrl": "https://remaker.ai/face-swap-free/img/logo-word-remaker.webp"
+    "imageUrl": "../images/graphics/remaker.jpg"
   }, 
+  {
+    "label": "Face Swapping by PicLumen.",
+    "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
+    "link": "https://piclumen.com/app/image-generator/create",
+    "imageUrl": "https://www.piclumen.com/wp-content/uploads/2024/10/piclumen-flux-08.webp"
+  },
+ {
+    "label": "Face Swapping by Dezgo.",
+    "description": "Edit an existing image to fit a given text description.",
+    "link": "https://dezgo.com/image2image",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSke-3U35HFB3LPAxJJjYlRVCm4AEzosYY1Mg&s"
+  },  
+ {
+    "label": "Deep Swapper",
+    "description": "High Quality AI Face Swaps For Free!",
+    "link": "https://www.deepswapper.com/",
+    "imageUrl": "https://www.deepswapper.com/opengraph-image.png?b808b023967130e4"
+  },  
   {
     "label": "AI Portrait Generator.",
     "description": "Convert Photos into AI Portraits.",
     "link": "https://remaker.ai/features/ai-portrait/",
-    "imageUrl": "https://remaker.ai/face-swap-free/img/logo-word-remaker.webp"
+    "imageUrl": "../images/graphics/remaker.jpg"
   },  
   {
     "label": "Dream by WOMBO.",
     "description": "Imagine new worlds with AI",
     "link": "https://dream.ai/create",
-    "imageUrl": "https://dream.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fheader.628c9d8e.png&w=1200&q=75"
+    "imageUrl": "../images/graphics/dream.jpg"
   },
   {
-    "label": "Wirestock by Wirestock Inc.",
+    "label": "by Wirestock Inc.",
     "description": "Manage the submission and sale of stock images across various marketplaces.",
     "link": "https://wirestock.io/",
-    "imageUrl": "https://framerusercontent.com/images/hlVZRRQWckhrgopCacYoycTUY28.png"
+    "imageUrl": "../images/graphics/wirestock.png"
   },
   {
     "label": "Image Creator by Microsoft Bing",
     "description": "AI-powered text-to-image generator transforms your words into stunning visuals in seconds. Perfect for quick and easy image creation.",
     "link": "https://www.bing.com/images/create",
-    "imageUrl": "https://r.bing.com/rp/OyPexvO0ARndhcIVoOJv7iFmsRI.svg"
+    "imageUrl": "../images/graphics/bing-image-creator.jpg"
   },
   {
-    "label": "Skybox AI by Blockade Labs",
+    "label": "by Blockade Labs",
     "description": "Generate immersive 360° environments.",
     "link": "https://skybox.blockadelabs.com/",
-    "imageUrl": "https://assets.blockadelabs.com/assets/social-share.jpg"
+    "imageUrl": "../images/graphics/skybox-ai.jpg"
   },  
   {
-    "label": "Graphic Design by Google",
+    "label": "by Google",
     "description": "Create high-quality visual assets rapidly by inputting text prompts to generate detailed and stylistically diverse images.",
     "link": "https://gemini.google.com/",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg"
+    "imageUrl": "../images/graphics/google-gemini-logo.png"
   },
   {
-    "label": "ImageFX by Google",
+    "label": "by Google",
     "description": "Create photo-realistic images from simple text prompts",
     "link": "https://aitestkitchen.withgoogle.com/tools/image-fx",
-    "imageUrl": "https://cdn-1.webcatalog.io/catalog/google-ai-test-kitchen/google-ai-test-kitchen-icon-filled-256.webp?v=1716618507248"
+    "imageUrl": "../images/graphics/imagefx.jpg"
   },
   {
     "label": "Le Chat by Mistral AI",
     "description": "An AI image generator that creates images from textual descriptions.",
-    "imageUrl": "https://chat.mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fle-chat-logo-large-light.b98da676.png&w=384&q=75"
+    "link": "https://chat.mistral.ai/chat",    
+    "imageUrl": "../images/graphics/le-chat.png"
   },  
   {
-    "label": "Craiyon by Craiyon LLC.",
+    "label": "by Craiyon LLC.",
     "description": "Create AI Art with this free AI image generator.",
     "link": "https://www.craiyon.com/",
-    "imageUrl": "https://pics.craiyon.com/2024-09-06/ealzLDfZTTydoyfQH9HVeA.webp"
+    "imageUrl": "../images/graphics/Craiyon-ai.jpg"
   },  
+  {
+    "label": "by AIColoringPages [$0]",
+    "description": "From classic themes like Disney coloring pages and dinosaur coloring pages.",
+    "link": "https://aicoloringpages.net/",
+    "_imageUrl": "https://playground.com/favicon.ico",
+    "imageUrl": "https://aicoloringpages.net/_next/static/media/logo.2a7527ce.webp"
+  },
   {
     "label": "Coloring Book Pages by Playground.com",
     "description": "Modify templates with AI to create your own coloring book pages. [Create 15 free images every 3 hours]",
     "link": "https://playground.com/design/c/coloring-book-pages",
     "_imageUrl": "https://playground.com/favicon.ico",
-    "imageUrl": "https://images.playground.com/90d3fb7b-044a-4592-8ccc-41e207f7293d.jpeg"
-  },
+    "imageUrl": "../images/graphics/coloring-book-pages.jpg"
+  }, 
+  {
+    "label": "Coloring Book Pages by Heyyoubetcha",
+    "description": "It adheres to black and white color schemes, ensuring plenty of open spaces, with no shading or additional colors.",
+    "link": "https://theresanaiforthat.com/@ruthfischer/heyyoubetcha/?",
+    "_imageUrl": "https://playground.com/favicon.ico",
+    "imageUrl": "https://media.theresanaiforthat.com/g/heyyoubetcha@2094974-82734faf-01b6-4509-ac4e-b91d7a482a29.png"
+  }, 
+  {
+    "label": "Adult coloring page generator by TAAFT",
+    "description": "A cutting-edge AI tool, crafts visually appealing, high-resolution adult coloring pages.",
+    "link": "https://theresanaiforthat.com/@declanmcrory/adult-coloring-page-generator/?",
+    "_imageUrl": "https://media.theresanaiforthat.com/g/adult-coloring-page-generator@1886695-21840ad2-fc9e-4034-9300-4a05b9123212.png",
+    "imageUrl": "https://media.theresanaiforthat.com/g/adult-coloring-page-generator@1886695-21840ad2-fc9e-4034-9300-4a05b9123212.png"
+  }, 
   {
     "label": "Logos by Playground.com",
     "description": "Modify templates with AI to create your own logos. [Create 15 free images every 3 hours]",
     "link": "https://playground.com/design/c/logo",
     "_imageUrl": "https://playground.com/favicon.ico",
-    "imageUrl": "https://images.playground.com/eaf8dc13a48f4b7c80b4c56b9f366a20.jpeg"
+    "imageUrl": "../images/graphics/logo.png"
   },  
   {
     "label": "SVGStud.io by GenAI Works",
     "description": "Search or generate scalable vector graphics (SVGs) for free",
     "link": "https://svgstud.io/generator.html",
-    "imageUrl": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://svgstud.io&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
+    "imageUrl": "../images/graphics/svgstud.png"
   },
+  {
+    "label": "AI Image Generator",
+    "description": "A free tool that lets you turn your ideas into pictures.",
+    "link": "https://perchance.org/ai-text-to-image-generator",
+    "imageUrl": "../images/graphics/perchance.jpg"
+  },  
   {
     "label": "Images Generator Plugins",
     "description": "Create custom, high-quality vector designs effortlessly.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+    "imageUrl": "../images/graphics/TAAFT.jpg"
   },
   {
     "label": "CartoonCrafter",
     "description": "Your AI-powered cartoon artist. Create stunning, diverse cartoons with rotating styles, vibrant palettes, and intricate details.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+    "imageUrl": "../images/graphics/TAAFT.jpg"
+  }, 
+  {
+    "label": "AI Background Remover by html.zone ($0)",
+    "description": "AI removes the background of a picture.",
+    "link": "https://html.zone/background-remover",
+    "imageUrl": "https://www.html.zone/banner.png"
   },
   {
-    "label": "DiffusionArt by Masse LLC,",
+    "label": "DiffusionArt by Masse LLC ($0)",
     "description": "100% Free AI Art Generator.",
     "link": "https://diffusionart.co/",
-    "imageUrl": "https://diffusionart.co/wp-content/uploads/2023/03/DiffusionArt-Logo-1.png"
-  },  
-  {
-    "label": "Music Cover Image Generator",
-    "description": "Create stunning music album covers with AI.",
-    "link": "https://free.theresanaiforthat.com/@rajibgartia/music-cover-image-generator/?ref=search&term=music",
-    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
-  }
+    "imageUrl": "../images/graphics/diffusionart.jpg"
+  }  
 ]

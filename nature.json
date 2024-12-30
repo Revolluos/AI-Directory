@@ -1,0 +1,42 @@
+[
+  {
+    "icon": "🌳",
+    "label": "Forests",
+    "description": "Explore dense woodlands and discover diverse ecosystems",
+    "link": "#forests",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
+  },
+  {
+    "icon": "🌊",
+    "label": "Oceans",
+    "description": "Dive into the mysteries of marine life and underwater worlds",
+    "link": "#oceans",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
+  },
+  {
+    "icon": "🏔️",
+    "label": "Mountains",
+    "description": "Experience the majesty of towering peaks and alpine environments",
+    "link": "#mountains",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
+  },
+  {
+    "icon": "🦁",
+    "label": "Wildlife",
+    "description": "Observe amazing animals in their natural habitats",
+    "link": "#wildlife",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
+  },
+  {
+    "icon": "🌺",
+    "label": "Flora",
+    "description": "Study the incredible diversity of plant life around the world",
+    "link": "#flora"
+  },
+  {
+    "icon": "🌋",
+    "label": "Geology",
+    "description": "Understand the Earth's formation and geological processes",
+    "link": "#geology"
+  }
+]

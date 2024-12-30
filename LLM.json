@@ -6,6 +6,12 @@
     "imageUrl": "https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png"
   },
   {
+    "label": "by Google",
+    "description": "Rapid prototyping and testing of these models, making it a valuable tool for developers interested in AI.",
+    "link": "https://aistudio.google.com",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-02.png"
+  },  
+  {  
     "label": "Perplexity (Private Company)",
     "description": "An AI search engine that provides answers with sources (conversational).",
     "link": "https://www.perplexity.ai/",
@@ -70,5 +76,17 @@
     "description": "An online platform that allows users to interact with various AI chatbots, including popular ones like ChatGPT, Gemini, and Claude. ",
     "link": "https://poe.com/",
     "imageUrl": "https://psc2.cf2.poecdn.net/assets/_next/static/media/poeFullMultibot.aa56caf5.svg"
+  },
+  {
+    "label": "Online Chat AI",
+    "description": "Basic interface but the AI-powered chatbot is Unlimited Free. ",
+    "link": "https://chatfreeai.com/online-chat-ai/",
+    "imageUrl": "https://chatfreeai.com/wp-content/uploads/2024/11/Chat-Free-AI.png"
+  }, 
+  {
+    "label": "Prompt Optimizer",
+    "description": "Automatically generates the best prompt for your AI application. ",
+    "link": "https://app.hamming.ai/prompt-optimizer",
+    "imageUrl": "https://docs.hamming.ai/api/og?division=Documentation&section=Guides&title=Prompt+Optimizer&description=Automatically+generates+the+best+prompt+for+your+AI+application.&logoLight=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Flight.svg&logoDark=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Fdark.svg&primaryColor=%230D9373&lightColor=%2307C983&darkColor=%230D9373"
   }  
 ]

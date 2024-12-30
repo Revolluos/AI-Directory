@@ -24,9 +24,45 @@
     "imageUrl": "https://cdn-luma.com/public/lumalabs.ai/june-12-launch-dream-machine-high-res/og-image.png"
   },
   {
+    "label": "by Runway AI, Inc.",
+    "description": "Use AI to create videos from images.",
+    "link": "https://app.runwayml.com/video-tools/teams",
+    "imageUrl": "https://i.ibb.co/z6VP69g/runway.png"
+  },  
+  {
+    "label": "by Deep AI, Inc. ©",
+    "description": "This AI video generator converts text to video, or image to video.",
+    "link": "https://deepai.org/video",
+    "imageUrl": "https://i.ibb.co/sjVVpf8/deepai.jpg"
+  },  
+  {
+    "label": "Image to Video Generator",
+    "description": "Animate Your Images And Bring Them To Life.",
+    "link": "https://app.pixverse.ai/",
+    "imageUrl": "https://i.ibb.co/vH8VYKT/pixverse.png"
+  },  
+  {
+    "label": "Vidnoz AI Music Video Generator",
+    "description": "Convert music to cinematic video in mins for free.",
+    "link": "https://www.vidnoz.com/ai-music-video-generator.html",
+    "imageUrl": "https://www.vidnoz.com/img/music-video/icon_banner.png"
+  },
+  {
+    "label": "Hapier AI",
+    "description": "Image to video generation model.",
+    "link": "https://haiper.ai/",
+    "imageUrl": "https://framerusercontent.com/images/Hn1eUqhYAB3671XKDkZRCTLsn4I.jpg"
+  },
+  {
     "label": "Genmo by Genmo",
     "description": "Open video generation model.",
     "link": "https://www.genmo.ai/",
     "imageUrl": "https://www.genmo.ai/_next/static/media/blue-right.e5278106.png"
-  }
+  },
+  {
+    "label": "Lip sync any video",
+    "description": "Upload any video and sync the person's lips to match the audio.",
+    "link": "https://magichour.ai/create/lip-sync",
+    "imageUrl": "https://magichour.ai/logo-social.png"
+  }  
 ]

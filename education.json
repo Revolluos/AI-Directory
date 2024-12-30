@@ -1,0 +1,26 @@
+[
+  {
+    "label": "AI Freebox",
+    "description": "Explore how AI enhances content creation, reshapes social media, and beyond.",
+    "link": "https://aifreebox.com/",
+    "imageUrl": "https://aifreebox.com/_next/image?url=%2Flogo.webp&w=48&q=75"
+  },
+  {
+    "label": "AI Content Writing Improver",
+    "description": "AI Content Writing Improver enhances your text for optimal clarity and engagement across diverse writing styles.",
+    "link": "https://aifreebox.com/",
+    "imageUrl": "https://aifreebox.com/_next/image?url=%2Flogo.webp&w=48&q=75"
+  },
+  {
+    "label": "Create a short story",
+    "description": "Write a customised short story really quickly.",
+    "link": "https://www.plot-generator.org.uk/story/",
+    "imageUrl": "https://www.plot-generator.org.uk/images/fb-cover.png"
+  },
+  {
+    "label": "Powerpoint Presentation",
+    "description": "a presentation and slide deck creation tool powered by AI.",
+    "link": "https://gamma.app/",
+    "imageUrl": "https://gamma.app/_next/static/media/gamma-logo-black.5914e71f.svg"
+  }   
+]
