@@ -188,13 +188,13 @@
     "label": "Images Generator Plugins",
     "description": "Create custom, high-quality vector designs effortlessly.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "../images/graphics/TAAFT.jpg"
+    "imageUrl": "https://free.theresanaiforthat.com/favicon-large.png"
   },
   {
     "label": "CartoonCrafter",
     "description": "Your AI-powered cartoon artist. Create stunning, diverse cartoons with rotating styles, vibrant palettes, and intricate details.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "../images/graphics/TAAFT.jpg"
+    "imageUrl": "https://free.theresanaiforthat.com/favicon-large.png"
   }, 
   {
     "label": "AI Background Remover by html.zone ($0)",
@@ -206,6 +206,6 @@
     "label": "DiffusionArt by Masse LLC ($0)",
     "description": "100% Free AI Art Generator.",
     "link": "https://diffusionart.co/",
-    "imageUrl": "../images/graphics/diffusionart.jpg"
+    "imageUrl": "https://diffusionart.co/wp-content/uploads/2023/03/DiffusionArt-Logo-1.png"
   }  
 ]
