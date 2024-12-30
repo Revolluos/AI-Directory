@@ -1,5 +1,11 @@
 [
   {
+    "label": "Website Generator",
+    "description": "FREE AI website generator to help launch your online business in minutes.",
+    "link": "https://innove.ai/",
+    "imageUrl": "https://innove.ai/assest/images/logo.png"
+  },  
+  {
     "label": "Web sim",
     "description": "Transform simple text inputs into dynamic, interactive web environments.",
     "link": "https://websim.ai/",
