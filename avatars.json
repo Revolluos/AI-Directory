@@ -1,25 +1,25 @@
 [
   {
-    "label": "infinity.ai by a Private Company",
-    "description": "Generate talking head videos of various celebrities (and even yourself) saying whatever you want.",
-    "link": "https://infinity.ai/",
-    "imageUrl": "https://cdn-1.webcatalog.io/catalog/infinity-ai/infinity-ai-icon-filled-256.webp?v=1714783198028"
-  },
-  {
-    "label": "by Hedera Hashgraph LLC",
-    "description": "This platform uses AI to turn still images into talking characters with facial expressions.",
+    "label": "Turn still images into talking characters",
+    "description": "Hedera Hashgraph LLC - This platform uses AI to turn still images into talking characters with facial expressions.",
     "link": "https://www.hedra.com/",
     "imageUrl": "https://www.hedra.com/og.png"
   },
   {
-    "label": "by Joshua Xu and Wayne Liang",
-    "description": "Create 3 free videos per month using lifelike avatars that read your script with a natural voice.",
+    "label": "Create customizable AI avatars",
+    "description": "Joshua Xu and Wayne Liang - Create 3 free videos per month using lifelike avatars that read your script with a natural voice.",
     "link": "https://app.heygen.com/home",
     "imageUrl": "https://app.heygen.com/icons/heygen/wordmark/png/heygen_logo_full_black_old_purple.png"
   },  
   {
-    "label": "Face Swapper by Liam Nakamura",
-    "description": "AI-powered tool for swapping faces in images and videos seamlessly.",
+    "label": "AI Headshot Generator",
+    "description": "CHENGDU Yile Tech Co., Ltd - Turn your selfie into professional-looking headshots for business, resume, or social media use.",
+    "link": "https://www.aiease.ai/app/generate-headshot",
+    "imageUrl": "https://www.aiease.ai/wp-content/uploads/2024/04/ai-ease-logo.png"
+  },  
+  {
+    "label": "Face Swapper",
+    "description": "Liam Nakamura - AI-powered tool for swapping faces in images and videos seamlessly.",
     "link": "https://faceswapper.ai/",
     "imageUrl": "https://faceswapapp.ai/hero.png"
   }
