@@ -66,6 +66,12 @@
     "imageUrl": "https://chat.mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fle-chat-logo-large-light.b98da676.png&w=384&q=75"
   },
   {
+    "label": "Cutting-edge AI tools for everyone by High-Flyer",
+    "description": "Provides access to various AI capabilities, such as large language models, math codes, visual language models, and APIs",
+    "link": "https://chat.deepseek.com/a/chat/",
+    "imageUrl": "https://chat.deepseek.com/deepseek-chat.jpeg"
+  },  
+  {
     "label": "by You.com, Inc.",
     "description": "Enhance your productivity with AI.",
     "link": "https://you.com/?chatMode=default",
