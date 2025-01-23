@@ -16,7 +16,13 @@
     "description": "Nanonoble Pte. Ltd. - MiniMax - Reimagine Video Creation : Simple. Joyful. AI-Powered Video Generator.",
     "link": "https://hailuoai.video/",
     "imageUrl": "https://hailuo.org/wp-content/uploads/2024/10/Hailuo-AI-MiniMax.jpg"
-  },   
+  },
+  {
+    "label": "[Meta.ai] Generate a video from an image.",
+    "description": "Generate an image then convert it to a video by Meta Platforms, Inc.",
+    "link": "https://www.meta.ai/icebreakers/imagine",
+    "imageUrl": "https://media.tenor.com/8eiXYNcZwmsAAAAC/meta-vr.gif"
+  },  
   {
     "label": "Adobe - Videos Background Remover",
     "description": "Adobe - free online tool uses AI to remove backgrounds from videos, but requires a paid subscription to download the final product.",
@@ -45,8 +51,14 @@
     "label": "Vidu - Videos from text and images",
     "description": "Shengshu Technology - AI model that can quickly generate high-quality videos from text and images.",
     "link": "https://www.vidu.studio/create",
-    "imageUrl": "https://www.vidu.studio/_next/static/media/ability1.c582a6a3.png"
+    "imageUrl": "https://image01.cf.vidu.studio/vidu/landing-page/ability1.72782fe0.png"
   },  
+  {
+    "label": "by WarpEngine Canada Inc",
+    "description": "Swap a character in a video.",
+    "link": "https://viggle.ai/home",
+    "imageUrl": "data:image/png;base64,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"
+  },
   {
     "label": "Image to Video Generator",
     "description": "Charles Ying - Animate Your Images And Bring Them To Life.",
@@ -82,5 +94,11 @@
     "description": "ByteDance - A free video editor with AI-powered features like background removal, auto-cutting, and image transformation.",
     "link": "https://www.capcut.com/magic-tools",
     "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/3f7c59f36d529f90-1200.png"
+  },
+  {
+    "label": "Restore and improve various aspects of video quality",
+    "description": "ByteDance - Simply upload your video to the platform, and the tool uses advanced AI algorithms to analyze your video. Once the processing is complete, download your enhanced video with crystal-clear quality in just a few steps.",
+    "link": "https://unblurimage.ai/unblur-video/",
+    "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }  
 ]
