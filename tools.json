@@ -84,11 +84,23 @@
     "imageUrl": "https://notebooklm.google/_/static/branding/v4/og/notebook_lm_share.png"
   },
   {
+    "label": "Generate audio discussion of the contents of an Url",
+    "description": "Google - Provide a URL, Illuminate will attempt to generate an audio dialogue with two AI-generated voices.",
+    "link": "https://illuminate.google.com/home",
+    "imageUrl": "https://lh3.googleusercontent.com/_0Ec7-msXYxAP4YGixr9JZVuOoESgp9ueO-xjB37qtNsH53eskbBU8N20WjgLXWAJpzG8Z5G8A6ZN_vvKwfxENO_pQ=s1280-w1280-h800"
+  },  
+  {
     "label": "by superpodcast.ai",
     "description": "Create Podcast with AI and talk with the AI Hosts.",
     "link": "https://studio.superpodcast.ai/discover/",
     "imageUrl": "https://cdn.prod.website-files.com/670f497f87d182fd0d8f08c6/6712ead112d7e4cce675825f_Open-graph-final.jpg"
   },
+  {
+    "label": "Podcasts on any topic by anytopic.io",
+    "description": "Free podcasts on your favorite topics, questions, or websites.",
+    "link": "https://www.anytopic.io/",
+    "imageUrl": "https://cdn.mcauto-images-production.sendgrid.net/e96b6cc3249a1706/3bca466a-b41d-4b50-9099-4a3e4b9175da/1400x1400.png"
+  },  
   {
     "label": "by BandarLabs",
     "description": "Turn any GitHub repository into an engaging podcast in seconds.This is useful for quickly understanding projects via podcast.",
@@ -189,14 +201,32 @@
     "label": "The Free AI Prompt Generator",
     "description": "Learning to write AI Prompts is similar to learning any new language.",
     "link": "https://www.feedough.com/ai-prompt-generator/",
-    "imageUrl": "https://scontent.fmel11-1.fna.fbcdn.net/v/t39.30808-1/305995471_505431434924968_279491432161151395_n.png?stp=dst-png_s200x200&_nc_cat=101&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=VGPKhsTZNEgQ7kNvgHyChwH&_nc_zt=24&_nc_ht=scontent.fmel11-1.fna&_nc_gid=AQmwNo_jhZra1n0s2THRHOH&oh=00_AYBv6MC0Jsa1BeNsBYkzXEf84j5zHYLQt2YOltwgYH0WnA&oe=676EA96A"
+    "imageUrl": "https://www.feedough.com/wp-content/uploads/2024/11/Claude-Prompt-Generator.png"
   },   
+  {
+    "label": "ZeroGPT - Powerful AI chat model.",
+    "description": "Chat with AI that feels surprisingly human. Your personal AI companion.",
+    "link": "https://www.zerogpt.com/chat",
+    "imageUrl": "https://www.zerogpt.com/favicon.png"
+  },  
   {
     "label": "AI Article Writer ⭐",
     "description": "Free AI Writing Tools - No Sign-Up, No Limit. Paragraph, sentence, essay and article writer.",
     "link": "https://tinywow.com/tools/write",
     "imageUrl": "https://d2c0db5b8fb27c1c9887-9b32efc83a6b298bb22e7a1df0837426.ssl.cf2.rackcdn.com/12121466-tinywow-hero-logo-1200x628.png"
   },
+  {
+    "label": "ZeroGPT - Summarize Any Text",
+    "description": "Text summarizer shortens any text and maintains the original context.",
+    "link": "https://www.zerogpt.com/summarizer",
+    "imageUrl": "https://www.zerogpt.com/favicon.png"
+  }, 
+  {
+    "label": "ZeroGPT - Paraphrase any text",
+    "description": "Paraphraser helps rewrite, edit and reformulate the tone of your text.",
+    "link": "https://www.zerogpt.com/paraphraser",
+    "imageUrl": "https://www.zerogpt.com/favicon.png"
+  },   
   {
     "label": "AI Homework Helper ⭐",
     "description": "Your AI Homework Helper in Math, Stats, Chemistry and Physics etc.",
