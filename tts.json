@@ -1,97 +1,103 @@
 [
   {
-    "label": "by ElevenLabs",
-    "description": "Create realistic AI voices in many languages for projects like audiobooks.",
+    "label": "Realistic Voices",
+    "description": "[ElevenLabs] Create realistic AI voices in many languages for projects like audiobooks.",
     "link": "https://elevenlabs.io/",
-    "imageUrl": "https://eleven-public-cdn.elevenlabs.io/payloadcms/x1b6d7s30d-ElevenLabsBlogLogo.webp"
+    "imageUrl": "https://elevenlabs.io/cover.png"
   },
   {
-    "label": "by ByteDance",
-    "description": "CapCut's free text-to-speech converter enables you to create immersive voices that engage the audience.",
+    "label": "Text-to-speech converter.",
+    "description": "[ByteDance] CapCut's free  enables you to create immersive voices that engage the audience.",
     "link": "https://www.capcut.com/magic-tools/text-to-speech",
     "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/2ad01c7dcdf6b061-509.png"
   },  
   {
-    "label": "Natural Readers (Personal) by Naturalsoft Ltd",
-    "description": "Your one-stop solution for creating any type of voiceover audio.",
+    "label": "Creat voiceover audio (Personal)",
+    "description": "[Naturalsoft Ltd] Your one-stop solution for creating any type of voiceover audio.",
     "link": "https://www.naturalreaders.com/online/",
     "imageUrl": "https://media.licdn.com/dms/image/v2/C560BAQH5JBJrsRYN4Q/company-logo_200_200/company-logo_200_200/0/1668627486212?e=2147483647&v=beta&t=Gnq7M9I7x6UzNESKOt3ZuPwZGlLnq9Z9pWcPLbx0W4I"
   },  
   {
-    "label": "Natural Readers (Commercial) by Naturalsoft Ltd",
-    "description": "Your one-stop solution for creating any type of voiceover audio.",
+    "label": "Create voiceover audio (Commercial)",
+    "description": "[Naturalsoft Ltd] Your one-stop solution for creating any type of voiceover audio.",
     "link": "https://www.naturalreaders.com/commercial/",
     "imageUrl": "https://media.licdn.com/dms/image/v2/C560BAQH5JBJrsRYN4Q/company-logo_200_200/company-logo_200_200/0/1668627486212?e=2147483647&v=beta&t=Gnq7M9I7x6UzNESKOt3ZuPwZGlLnq9Z9pWcPLbx0W4I"
   }, 
   {
-    "label": "TTS Maker by TTSYNTH.COM",
-    "description": "Natural-Sounding Voice, Multi-Languages, MP3 Downloads. For audiobooks and presentations to enhancing accessibility for visually impaired users.",
+    "label": "Create Natural-Sounding Voices.",
+    "description": "[TTSYNTH.COM] Natural-Sounding Voice, Multi-Languages, MP3 Downloads. For audiobooks and presentations to enhancing accessibility for visually impaired users.",
     "link": "https://ttsynth.com/",
     "imageUrl": "https://ttsynth.com/logo.webp"
   },  
   {
-    "label": "text-to-speech by play.ht",
-    "description": "Limited - Text to Speech.",
+    "label": "Text to speech",
+    "description": "[play.ht] Limited - Text to Speech.",
     "link": "https://play.ht/text-to-speech/",
     "imageUrl": "https://playtht-website-assets.s3.amazonaws.com/img/logos/playCube-DarkMode.svg"
   }, 
   {
-    "label": "playground by play.ht",
-    "description": "Basic - Easily create natural-sounding speech in various languages from text input.",
+    "label": "Create natural-sounding speech.",
+    "description": "[play.ht] Basic - Easily create natural-sounding speech in various languages from text input.",
     "link": "https://play.ht/playground/",
     "imageUrl": "https://playtht-website-assets.s3.amazonaws.com/img/logos/playCube-DarkMode.svg"
   },  
   {
-    "label": "studio by play.ht",
-    "description": "Advanced - Create immersive storytelling experiences with diverse voices.",
+    "label": "Create immersive storytelling",
+    "description": "[play.ht] Advanced - Create immersive storytelling experiences with diverse voices.",
     "link": "https://play.ht/studio/",
     "imageUrl": "https://playtht-website-assets.s3.amazonaws.com/img/logos/playCube-DarkMode.svg"
   },  
   {
-    "label": "playnote by  play.ht",
-    "description": "Turn your files and data into captivating audio creations.",
+    "label": "Files and data to audio creations.",
+    "description": "[play.ht] Turn your files and data into captivating audio creations.",
     "link": "https://play.ai/playnote",
     "imageUrl": "https://framerusercontent.com/images/GwytPrTPgDxc5byTPdI1pgXk044.png"
   },   
   {
-    "label": "(Basic)-Free text to speech",
-    "description": "A Speech service using Microsoft AI speech library feature that converts text to lifelike speech.",
+    "label": "Free Text to Speech",
+    "description": "[text-to-speech.online] Basic- A Speech service using Microsoft AI speech library feature that converts text to lifelike speech.",
     "link": "https://www.text-to-speech.online/",
     "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
   },  
   {
-    "label": "(Advanced)-Free Text to Speech {with Realistic AI Voices}",
-    "description": "Designed to bring your text to life with highly realistic voice synthesis..",
+    "label": "Free Text to Speech {with Realistic AI Voices}",
+    "description": "[text-to-speech.online] Advanced - Designed to bring your text to life with highly realistic voice synthesis..",
     "link": "https://speechsynthesis.online/",
     "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
   },  
   {
-    "label": "ttsynth by ttsynth.com",
-    "description": "Quickly convert text to speech with multiple languages and natural voices.",
+    "label": "Text to Speech {with natural voices}",
+    "description": "[ttsynth.com] Quickly convert text to speech with multiple languages and natural voices.",
     "link": "https://ttsynth.com/",
     "imageUrl": "https://ttsynth.com/logo.webp"
   },
   {
-    "label": "text to speech by texttospeech.im",
-    "description": "Experience lifelike audio with our advanced text to speech tool. Easily generate and download high-quality speech for all your needs.",
+    "label": "Easily generate high-quality speech.",
+    "description": "[texttospeech.im] Experience lifelike audio with our advanced text to speech tool. Easily generate and download high-quality speech for all your needs.",
     "link": "https://texttospeech.im/",
     "imageUrl": "https://texttospeech.im/logo.webp"
   },
   {
-    "label": "Free text to speech",
-    "description": "Uses the Microsoft AI speech library to synthesize unique reading audio",
+    "label": "Synthesize unique reading audio",
+    "description": "[text-to-speech.online] Uses the Microsoft AI speech library to synthesize unique reading audio.",
     "link": "https://www.text-to-speech.online/",
     "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
   },
   {
+    "label": "High-fidelity voice synthesis",
+    "description": "[speechma.com] High-fidelity voice synthesis for all your creative and professional needs.",
+    "link": "https://speechma.com/",
+    "imageUrl": "https://speechma.com/assets/images/speechmalogo.svg"
+  },  
+  {
     "label": "An advanced AI audio technology tool",
-    "description": "Dive into a world of endless possibilities fueled by advanced AI audio technology [Select TTS]",
+    "description": "[applio.org] Dive into a world of endless possibilities fueled by advanced AI audio technology [Select TTS]",
     "link": "https://applio.org/products/playground",
     "imageUrl": "https://applio.org/opengraph-image.png"
   },  
   {
     "label": "Voice Models",
-    "description": "A platform for creating and sharing AI-generated voice models.",
+    "description": "[voice-models.com] A platform for creating and sharing AI-generated voice models.",
     "link": "https://voice-models.com/",
     "imageUrl": "https://voice-models.com/assets/media/logos/logo-dark.png"
   }
