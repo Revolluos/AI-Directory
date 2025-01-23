@@ -1,56 +1,74 @@
 [
   {
-    "label": "Udio by Muse Group",
-    "description": "Lets creators share audio (music, podcasts) and collaborate for free.",
+    "label": "⭐ [Muse Group] Create music and songs.",
+    "description": "Muse Group - Create music and songs from simple text prompts by specifying topics, genres, and other descriptors which are then transformed into professional quality tracks.",
     "link": "https://www.udio.com/home",
     "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Udio_AI_Logo.png"
   },
   {
-    "label": "Suno by Suno, Inc.",
-    "description": "An AI music creation tool that generates songs based on user-provided lyrics and genre preferences.",
+    "label": "⭐ [Suno, Inc.] Create music and songs.",
+    "description": "Suno - An AI music creation tool that generates songs based on user-provided lyrics and genre preferences.",
     "link": "https://suno.com/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
   },
   {
-    "label": "MusicFX by Google",
+    "label": "[imusicai] Create unique music with AI",
+    "description": "imusicai - Unleash your creativity to generate delightful music, perfect for special gifts or enhancing your visual content.",
+    "link": "https://imusicai.app/apps/ai-music-generator",
+    "imageUrl": "https://imusicai.app/logo.png"
+  },  
+  {
+    "label": "[CodeOne Ltd] - AI Music & Song Generator",
+    "description": "CodeOne - With just a few simple steps, you can create mind-blowing music tracks using the AI Song Generator.",
+    "link": "https://aisonggenerator.io",
+    "imageUrl": "https://aisonggenerator.io/logo800*800.webp"
+  },  
+  {
+    "label": "[Google] - Generate your own music.",
     "description": "MusicFX is an experimental technology that allows you to generate your own music.",
     "link": "https://aitestkitchen.withgoogle.com/tools/music-fx",
     "imageUrl": "https://storage.googleapis.com/labs-web-prod/music-fx-thumbnail.svg"
   },
   {
-    "label": "MusicFX DJ by Google",
-    "description": "MusicFX DJ lets you input multiple prompts to shape the music in real-time and create an evolving soundscape.",
+    "label": "[Google] - MusicFX - Shape music.",
+    "description": "MusicFX DJ - lets you input multiple prompts to shape the music in real-time and create an evolving soundscape.",
     "link": "https://aitestkitchen.withgoogle.com/tools/music-fx-dj",
     "imageUrl": "https://lh3.googleusercontent.com/7CWJ9fVeC97FrWgcispxyms9gTL_1PIDMIwBYTQNnU8S56JaxGB2Z4ThqZ-1vBTO-u-UBZg_cYhG8PtZjYP0rPabUbg5x2cCUnNJuiZAZBsE8u7Kvig=w1200-h630-n-nu"
   },
   {
-    "label": "AI Music Generator by Brev AI",
-    "description": "Create high-quality music in seconds with Brev.ai for your videos,social media, and more.",
+    "label": "[Nvidia] - AI Music Generator.",
+    "description": "Nvidia - Create high-quality music in seconds with Brev.ai for your videos, social media, and more.",
     "link": "https://brev.ai/app",
     "imageUrl": "https://brev.ai/images/logos/logo-vertical.svg"
   },  
   {
-    "label": "Soundraw by SOUNDRAW Inc.",
+    "label": "[SOUNDRAW Inc.] - Create custom royalty-free music",
     "description": "Lets you create custom royalty-free music with AI",
     "link": "https://soundraw.io/",
     "imageUrl": "https://cdn.soundraw.io/soundraw_ogp_EN.png"
   },
   {
-    "label": "Music generator by Robin Thorsen",
+    "label": "[Robin Thorsen] - Music generator",
     "description": "Create catchy, genre-specific songs instantly, complete with verses, choruses, and melody suggestions.",
     "link": "https://free.theresanaiforthat.com/@robinthorsen/music-generator/?ref=search&term=music",
     "imageUrl": "https://media.theresanaiforthat.com/icons/music-generator@2177553.png?width=100"
   },
   {
-    "label": "Song Identifier",
+    "label": "[Pablo] Song Identifier",
     "description": "Find that song in your head with the help of AI",
     "link": "https://www.songifier.xyz/",
     "imageUrl": "https://www.songifier.xyz/logo.webp"
   },
   {
-    "label": "SONOTELLER",
+    "label": "[Chordal] Summarises a song.",
     "description": "SONOTELLER listens to music and creates a comprehensive summary about the song.",
     "link": "https://sonoteller.ai/",
     "imageUrl": "https://cdn-1.webcatalog.io/catalog/sonoteller/sonoteller-social-preview.png?v=1721019853180"
+  },
+  {
+    "label": "⭐ [Freepik] Royalty-free music",
+    "description": "Freepik Company S.L. - Free top quality stock and royalty-free music. Generated with AI. Curated by humans.",
+    "link": "https://tunes.freepik.com/music",
+    "imageUrl": "https://cdn-tunes.freepik.com/843fc28/images/opengraph.jpg"
   }  
 ]
