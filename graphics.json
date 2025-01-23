@@ -3,8 +3,14 @@
     "label": "by Canva",
     "description": "Create visual assets from illustrations to marketing materials with unprecedented quality, speed, and style-consistency.",
     "link": "https://app.leonardo.ai/image-generation",
-    "imageUrl": "https://i.ibb.co/BCTNvfj/leonardo-ai.jpg"
+    "imageUrl": "../images/graphics/leonardo-ai.jpg"
   },
+  {
+    "label": "Generate copyright-free images",
+    "description": "nomorecopyright.com | Transform your images into unique, copyright-free versions instantly.",
+    "link": "https://nomorecopyright.com/",
+    "imageUrl": "https://nomorecopyright.com/assets/nomorecopyright_logo_icon-CV3k0YxF.png"
+  },  
   {
     "label": " by Elon Musk",
     "description": "Grok's new image generation model.",
@@ -12,32 +18,26 @@
     "imageUrl": "https://www.pcworld.com/wp-content/uploads/2024/07/grok-logo.jpg?quality=50&strip=all"
   },  
   {
-    "label": "by Deep AI, Inc.",
-    "description": "This is an AI Image Generator. It creates an image from scratch from a text description.",
-    "link": "https://deepai.org/machine-learning-model/text2img",
-    "imageUrl": "https://i.ibb.co/sjVVpf8/deepai.jpg"
-  },  
-  {
     "label": "by a Private Company",
     "description": "Runway is an AI-powered creative platform that enables users to generate and edit videos from text prompts, facilitating innovative content creation.",
     "link": "https://app.runwayml.com",
-    "imageUrl": "https://i.ibb.co/z6VP69g/runway.png"
-  },
+    "imageUrl": "../images/graphics/runway.jpg"
+  },  
   {
     "label": "by Ideogram, Inc.",
     "description": "A free-to-use AI tool that turns your ideas into stunning images, in a matter of seconds.",
     "link": "https://ideogram.ai/",
-    "imageUrl": "https://i.ibb.co/rcfB6wN/ideogram.jpg"
+    "imageUrl": "../images/graphics/ideogram.jpg"
   },
   {
     "label": "by Stability AI",
     "description": "Create beautiful art using stable diffusion ONLINE for free.",
     "link": "https://stablediffusionweb.com/",
-    "imageUrl": "https://i.ibb.co/3F4r1PB/stable-diffusion.jpg"
+    "imageUrl": "../images/graphics/stable-diffusion.jpg"
   },
   {
     "label": "Stable Difffusion",
-    "description": "Create stunning AI art from text prompts with Stable Diffusion. Transform your ideas into images in seconds, for free and without watermarks.",
+    "description": "Create stunning AI art from text prompts with Stable Diffusion. Transform your ideas into images in seconds, for free and without watermarks..",
     "link": "https://stabledifffusion.com/tools/ai-image-generator",
     "imageUrl": "https://stabledifffusion.com/logo.svg"
   },  
@@ -51,26 +51,32 @@
     "label": "Dreamina by ByteDance",
     "description": "Dreamina is an AI art generator that transforms text prompts into stunning digital images, enabling users to unleash their creativity effortlessly.",
     "link": "https://dreamina.capcut.com/ai-tool/home",
-    "imageUrl": "https://i.ibb.co/M7QjCzz/capcut-ai.jpg"
+    "imageUrl": "../images/graphics/capcut-ai.jpg"
   },
   {
     "label": "Create Art by SeaArt, Inc.",
     "description": "Lets you create art using text prompts, offering a free and accessible AI art generation experience.",
     "link": "https://www.seaart.ai/workFlowAppDetail/cqofr0le878c73dckp1g",
-    "imageUrl": "https://i.ibb.co/LPjR8k5/sea-art.webp"
+    "imageUrl": "../images/graphics/sea-art.jpg"
   },
   {
     "label": "AI Face Swap",
     "description": "Swap Your Face Online with AI Face Swapper",
     "link": "https://aifaceswap.io/#face-swap-playground",
-    "imageUrl": "https://i.ibb.co/qxpYCPp/faceswap.webp"
+    "imageUrl": "../images/graphics/faceswap.jpg"
   },
   {
     "label": "Face Swapping.",
     "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
     "link": "https://remaker.ai/face-swap-free/",
-    "imageUrl": "https://i.ibb.co/ftG8Sz0/remaker.webp"
-  }, 
+    "imageUrl": "../images/graphics/remaker.jpg"
+  },
+  {
+    "label": "AI Face Swap by Pixlr.",
+    "description": "Change faces between photos with just one click online for free and become whoever you want to be.",
+    "link": "https://pixlr.com/face-swap/#face-swap-templates",
+    "imageUrl": "https://pixlr.com/learn/wp-content/uploads/2021/12/cropped-Pixlr2022.png"
+  },
   {
     "label": "Face Swapping by PicLumen.",
     "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
@@ -93,55 +99,55 @@
     "label": "AI Portrait Generator.",
     "description": "Convert Photos into AI Portraits.",
     "link": "https://remaker.ai/features/ai-portrait/",
-    "imageUrl": "https://i.ibb.co/ftG8Sz0/remaker.webp"
+    "imageUrl": "../images/graphics/remaker.jpg"
   },  
   {
     "label": "Dream by WOMBO.",
     "description": "Imagine new worlds with AI",
     "link": "https://dream.ai/create",
-    "imageUrl": "https://i.ibb.co/6JgDjWC/dream.jpg"
+    "imageUrl": "../images/graphics/dream.jpg"
   },
   {
     "label": "by Wirestock Inc.",
     "description": "Manage the submission and sale of stock images across various marketplaces.",
     "link": "https://wirestock.io/",
-    "imageUrl": "https://i.ibb.co/pd2rVsF/wirestock.png"
+    "imageUrl": "../images/graphics/wirestock.png"
   },
   {
     "label": "Image Creator by Microsoft Bing",
     "description": "AI-powered text-to-image generator transforms your words into stunning visuals in seconds. Perfect for quick and easy image creation.",
     "link": "https://www.bing.com/images/create",
-    "imageUrl": "https://i.ibb.co/ssmMvmt/bing-image-creator.jpg"
+    "imageUrl": "../images/graphics/bing-image-creator.jpg"
   },
   {
     "label": "by Blockade Labs",
     "description": "Generate immersive 360° environments.",
     "link": "https://skybox.blockadelabs.com/",
-    "imageUrl": "https://i.ibb.co/bXwY21m/skybox-ai.jpg"
+    "imageUrl": "../images/graphics/skybox-ai.jpg"
   },  
   {
     "label": "by Google",
     "description": "Create high-quality visual assets rapidly by inputting text prompts to generate detailed and stylistically diverse images.",
     "link": "https://gemini.google.com/",
-    "imageUrl": "https://i.ibb.co/99tc9Nt/google-gemini-logo.png"
+    "imageUrl": "../images/graphics/google-gemini-logo.png"
   },
   {
     "label": "by Google",
     "description": "Create photo-realistic images from simple text prompts",
     "link": "https://aitestkitchen.withgoogle.com/tools/image-fx",
-    "imageUrl": "https://i.ibb.co/yftdPsg/imagefx.jpg"
+    "imageUrl": "../images/graphics/imagefx.jpg"
   },
   {
     "label": "Le Chat by Mistral AI",
     "description": "An AI image generator that creates images from textual descriptions.",
     "link": "https://chat.mistral.ai/chat",    
-    "imageUrl": "https://i.ibb.co/r216mm8/le-chat.png"
+    "imageUrl": "../images/graphics/le-chat.png"
   },  
   {
     "label": "by Craiyon LLC.",
     "description": "Create AI Art with this free AI image generator.",
     "link": "https://www.craiyon.com/",
-    "imageUrl": "https://i.ibb.co/By1gj7K/Craiyon-ai.jpg"
+    "imageUrl": "../images/graphics/Craiyon-ai.jpg"
   },  
   {
     "label": "by AIColoringPages [$0]",
@@ -155,7 +161,7 @@
     "description": "Modify templates with AI to create your own coloring book pages. [Create 15 free images every 3 hours]",
     "link": "https://playground.com/design/c/coloring-book-pages",
     "_imageUrl": "https://playground.com/favicon.ico",
-    "imageUrl": "https://i.ibb.co/qdG7JwL/coloring-book-pages.jpg"
+    "imageUrl": "../images/graphics/coloring-book-pages.jpg"
   }, 
   {
     "label": "Coloring Book Pages by Heyyoubetcha",
@@ -172,42 +178,35 @@
     "imageUrl": "https://media.theresanaiforthat.com/g/adult-coloring-page-generator@1886695-21840ad2-fc9e-4034-9300-4a05b9123212.png"
   }, 
   {
-    "label": "Create high-quality coloring sheets.",
-    "description": "Create high-quality coloring sheets for free with ColorifyAI's AI coloring page generator.",
-    "link": "https://colorifyai.art/",
-    "_imageUrl": "https://media.theresanaiforthat.com/g/adult-coloring-page-generator@1886695-21840ad2-fc9e-4034-9300-4a05b9123212.png",
-    "imageUrl": "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/colorify-logo-1.png"
-  },
-  {
     "label": "Logos by Playground.com",
     "description": "Modify templates with AI to create your own logos. [Create 15 free images every 3 hours]",
     "link": "https://playground.com/design/c/logo",
     "_imageUrl": "https://playground.com/favicon.ico",
-    "imageUrl": "https://i.ibb.co/PjscpGy/logo.png"
+    "imageUrl": "../images/graphics/logo.png"
   },  
   {
     "label": "SVGStud.io by GenAI Works",
     "description": "Search or generate scalable vector graphics (SVGs) for free",
     "link": "https://svgstud.io/generator.html",
-    "imageUrl": "https://i.ibb.co/q19yVh0/svgstud.png"
+    "imageUrl": "../images/graphics/svgstud.png"
   },
   {
     "label": "AI Image Generator",
     "description": "A free tool that lets you turn your ideas into pictures.",
     "link": "https://perchance.org/ai-text-to-image-generator",
-    "imageUrl": "https://i.ibb.co/HB0tyGp/perchance.jpg"
+    "imageUrl": "../images/graphics/perchance.jpg"
   },  
   {
     "label": "Images Generator Plugins",
     "description": "Create custom, high-quality vector designs effortlessly.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "https://i.ibb.co/qYH7hMK/TAAFT.jpg"
+    "imageUrl": "../images/graphics/TAAFT.jpg"
   },
   {
     "label": "CartoonCrafter",
     "description": "Your AI-powered cartoon artist. Create stunning, diverse cartoons with rotating styles, vibrant palettes, and intricate details.",
     "link": "https://free.theresanaiforthat.com/@arvindkumar-55/free-vector-images-generator-plugins/",
-    "imageUrl": "https://i.ibb.co/qYH7hMK/TAAFT.jpg"
+    "imageUrl": "../images/graphics/TAAFT.jpg"
   }, 
   {
     "label": "AI Background Remover by html.zone ($0)",
@@ -219,6 +218,12 @@
     "label": "DiffusionArt by Masse LLC ($0)",
     "description": "100% Free AI Art Generator.",
     "link": "https://diffusionart.co/",
-    "imageUrl": "https://i.ibb.co/k25QJgL/diffusionart.jpg"
-  }  
+    "imageUrl": "../images/graphics/diffusionart.jpg"
+  },
+  {
+    "label": "Old Photo Restoration by Masse LLC ($0)",
+    "description": "Old photo restoration involves enhancing the quality of damaged or faded photographs using advanced digital tools.",
+    "link": "https://unblurimage.ai/old-photo-restoration/",
+    "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
+  }   
 ]
