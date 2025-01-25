@@ -3,13 +3,13 @@
     "label": "AI Face Swap",
     "description": "Swap Your Face Online with AI Face Swapper",
     "link": "https://aifaceswap.io/#face-swap-playground",
-    "imageUrl": "../images/graphics/faceswap.jpg"
+    "imageUrl": "https://art-global.yimeta.ai/aifaceswap/image/face_b07365091f488682662cbebc08721616.webp"
   },
   {
     "label": "Face Swapping.",
     "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
     "link": "https://remaker.ai/face-swap-free/",
-    "imageUrl": "../images/graphics/remaker.jpg"
+    "imageUrl": "https://remaker.ai/video-face-swap-online/img/face/default.jpg"
   }, 
   {
     "label": "Face Swapping by PicLumen.",
