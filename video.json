@@ -22,6 +22,11 @@
     "description": "Generate an image then convert it to a video by Meta Platforms, Inc.",
     "link": "https://www.meta.ai/icebreakers/imagine",
     "imageUrl": "https://media.tenor.com/8eiXYNcZwmsAAAAC/meta-vr.gif"
+  }, 
+  {  "label": "[Weights Inc.] Generate Video from an image (2 per day).",
+    "description": "Weights - Generate Video from an image (select Video).",
+    "link": "https://www.weights.gg/",
+    "imageUrl": "https://static.weights.gg/57CVQ8v3/_next/static/media/weights.a79afcd9.jpeg"
   },  
   {
     "label": "[Lightricks] From script to visual story",
