@@ -1,14 +1,20 @@
 [
   {
+    "label": "Web sim",
+    "description": "Transform simple text inputs into dynamic, interactive web environments.",
+    "link": "https://websim.ai/",
+    "imageUrl": "https://miro.medium.com/v2/resize:fit:532/1*OzSFfw-j-TNB8S4M5rLJ8Q.png"
+  },
+  {
     "label": "Website Generator",
     "description": "FREE AI website generator to help launch your online business in minutes.",
     "link": "https://innove.ai/",
     "imageUrl": "https://innove.ai/assest/images/logo.png"
   },  
   {
-    "label": "Web sim",
-    "description": "Transform simple text inputs into dynamic, interactive web environments.",
-    "link": "https://websim.ai/",
-    "imageUrl": "https://miro.medium.com/v2/resize:fit:532/1*OzSFfw-j-TNB8S4M5rLJ8Q.png"
-  }
+    "label": "[Weights Inc.] Chat with characters.",
+    "description": "Weights - Chat with a range of characters or create your own.",
+    "link": "https://www.weights.gg/chat",
+    "imageUrl": "https://static.weights.gg/57CVQ8v3/_next/static/media/weights.a79afcd9.jpeg"
+  }  
 ]
