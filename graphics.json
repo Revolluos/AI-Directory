@@ -12,7 +12,7 @@
     "imageUrl": "https://nomorecopyright.com/assets/nomorecopyright_logo_icon-CV3k0YxF.png"
   },  
   {
-    "label": " by Elon Musk",
+    "label": "by Elon Musk",
     "description": "Grok's new image generation model.",
     "link": "https://x.com/i/grok",
     "imageUrl": "https://www.pcworld.com/wp-content/uploads/2024/07/grok-logo.jpg?quality=50&strip=all"
@@ -28,6 +28,11 @@
     "description": "A free-to-use AI tool that turns your ideas into stunning images, in a matter of seconds.",
     "link": "https://ideogram.ai/",
     "imageUrl": "https://i.ibb.co/dLJN25x/ideogram.jpg"
+  },
+  {  "label": "[Weights Inc.] Generate Image.",
+    "description": "Weights - Generate Image from a starting image.",
+    "link": "https://www.weights.gg/",
+    "imageUrl": "https://static.weights.gg/57CVQ8v3/_next/static/media/weights.a79afcd9.jpeg"
   },
   {
     "label": "by Stability AI",
