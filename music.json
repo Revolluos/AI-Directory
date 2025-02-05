@@ -4,7 +4,7 @@
     "description": "On Riffusion you can generate full length, studio quality songs by simply prompting our models with an idea, a phrase, or a melody.",
     "link": "https://www.riffusion.com/",
     "imageUrl": "https://www.riffusion.com/logo.svg"
-  },  
+  }, 
   {
     "label": "⭐ [Muse Group] Create music and songs.",
     "description": "Muse Group - Create music and songs from simple text prompts by specifying topics, genres, and other descriptors which are then transformed into professional quality tracks.",
@@ -16,6 +16,18 @@
     "description": "Suno - An AI music creation tool that generates songs based on user-provided lyrics and genre preferences.",
     "link": "https://suno.com/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
+  },
+  {
+    "label": "⭐ [Forsgren & Martiros] Full length, studio quality songs.",
+    "description": "Riffusion - you can generate full length, studio quality songs by simply prompting the models with an idea, a phrase, or a melody.",
+    "link": "https://www.riffusion.com/",
+    "imageUrl": "https://www.riffusion.com/logo.svg"
+  },  
+  {
+    "label": "[Weights Inc.] Create AI Song.",
+    "description": "Riffusion - Create a new song by choosing a reference track and custom lyrics.",
+    "link": "https://www.weights.gg/create/song",
+    "imageUrl": "https://static.weights.gg/57CVQ8v3/_next/static/media/weights.a79afcd9.jpeg"
   },
   {
     "label": "[imusicai] Create unique music with AI",
