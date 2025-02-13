@@ -10,7 +10,13 @@
     "description": "Summarist.ai uses AI/LLM technology to generate book summaries.",
     "link": "https://summarist.ai/",
     "imageUrl": "https://summarist.ai/static/logo.png"
-  },   
+  },
+  {
+    "label": "Humanize AI text by humanizeai.pro",
+    "description": "Transform your AI-generated content into natural, human-like text.",
+    "link": "https://www.humanizeai.pro/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzjKS-3x52ItoRsw3MBP5lWuMVfK81Da9Ww&s"
+  },  
   {
     "label": "by Consensus",
     "description": "AI-powered search engine helps researchers find relevant academic papers and gain insights from them",
