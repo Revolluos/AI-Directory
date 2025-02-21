@@ -24,6 +24,12 @@
     "imageUrl": "https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png"
   },
   {
+    "label": "ChatFreeAI by Menuka Dilshan",
+    "description": "An AI chatbot that answers questions, provide information, and engage in conversations.",
+    "link": "https://chatfreeai.com/online-chat-ai/",
+    "imageUrl": "https://chatfreeai.com/wp-content/uploads/2024/11/Chat-Free-AI.png"
+  },  
+  {
     "label": "by Microsoft",
     "description": "An AI assistant that helps with tasks like coding, writing, and summarizing.",
     "link": "https://copilot.microsoft.com/",
@@ -95,6 +101,12 @@
     "link": "https://chatfreeai.com/online-chat-ai/",
     "imageUrl": "https://chatfreeai.com/wp-content/uploads/2024/11/Chat-Free-AI.png"
   }, 
+  {
+    "label": "Intelligently routes user queries",
+    "description": "An enterprise-grade platform designed to transform unstructured data into actionable business intelligence.",
+    "link": "https://storytell.ai/",
+    "imageUrl": "https://cdn.prod.website-files.com/65a80909e3cbfe6b51a9c764/65c52b7c116e90f44fc0ea58_Open%20Graph2.jpg"
+  },
   {
     "label": "Prompt Optimizer",
     "description": "Automatically generates the best prompt for your AI application. ",
