@@ -88,13 +88,7 @@
     "description": "[texttospeech.im] Experience lifelike audio with our advanced text to speech tool. Easily generate and download high-quality speech for all your needs.",
     "link": "https://texttospeech.im/",
     "imageUrl": "https://texttospeech.im/logo.webp"
-  },
-  {
-    "label": "🆓 High-fidelity voice synthesis",
-    "description": "[speechma.com] High-fidelity voice synthesis for all your creative and professional needs.",
-    "link": "https://speechma.com/",
-    "imageUrl": "https://speechma.com/assets/images/speechmalogo.svg"
-  },  
+  }, 
   {
     "label": "👌 An advanced AI audio technology tool",
     "description": "[applio.org] Opensource - Dive into a world of endless possibilities fueled by advanced AI audio technology [Select TTS]",
