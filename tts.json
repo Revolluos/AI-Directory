@@ -10,12 +10,18 @@
     "description": "[ByteDance] CapCut's free  enables you to create immersive voices that engage the audience.",
     "link": "https://www.capcut.com/magic-tools/text-to-speech",
     "imageUrl": "https://lf16-web-buz.capcut.com/obj/capcut-web-buz-us/ies/lvweb_os_monorepo/platformSSR/2ad01c7dcdf6b061-509.png"
-  },
+  },  
   {
     "label": "AI-powered video and podcast editor.",
     "description": "[Descript, Inc.] Edit your videos & podcasts just by typing. Descript's powerful AI editing tools let you make videos, podcasts, & short clips for social fast.",
     "link": "https://web.descript.com/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzrZWGN6CpptEWtacUdcKsqNbcYVMKZ97YA&s"
+  },   
+  {
+    "label": "🆓 SPEECHMA text to speech.",
+    "description": "[speechma.com] supports multiple languages and accents, allowing you to choose the voice that best suits your needs.",
+    "link": "https://speechma.com/",
+    "imageUrl": "https://speechma.com/assets/images/speechmalogo.svg"
   },  
   {
     "label": "Creat voiceover audio (Personal)",
@@ -60,49 +66,43 @@
     "imageUrl": "https://framerusercontent.com/images/GwytPrTPgDxc5byTPdI1pgXk044.png"
   },   
   {
-    "label": "Free Text to Speech",
+    "label": "🆓 Text to Speech",
     "description": "[text-to-speech.online] Basic- A Speech service using Microsoft AI speech library feature that converts text to lifelike speech.",
     "link": "https://www.text-to-speech.online/",
     "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
   },  
   {
-    "label": "Free Text to Speech {with Realistic AI Voices}",
+    "label": "🆓 Text to Speech {with Realistic AI Voices}",
     "description": "[text-to-speech.online] Advanced - Designed to bring your text to life with highly realistic voice synthesis..",
     "link": "https://speechsynthesis.online/",
-    "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
+    "imageUrl": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://speechsynthesis.online&client=VFE&size=64&type=FAVICON&fallback_opts=TYPE,SIZE,URL&nfrp=2"
   },  
   {
-    "label": "Text to Speech {with natural voices}",
+    "label": "🆓 Text to Speech {with natural voices}",
     "description": "[ttsynth.com] Quickly convert text to speech with multiple languages and natural voices.",
     "link": "https://ttsynth.com/",
     "imageUrl": "https://ttsynth.com/logo.webp"
   },
   {
-    "label": "Easily generate high-quality speech.",
+    "label": "🆓 Easily generate high-quality speech.",
     "description": "[texttospeech.im] Experience lifelike audio with our advanced text to speech tool. Easily generate and download high-quality speech for all your needs.",
     "link": "https://texttospeech.im/",
     "imageUrl": "https://texttospeech.im/logo.webp"
   },
   {
-    "label": "Synthesize unique reading audio",
-    "description": "[text-to-speech.online] Uses the Microsoft AI speech library to synthesize unique reading audio.",
-    "link": "https://www.text-to-speech.online/",
-    "imageUrl": "https://www.text-to-speech.online/static/picture/logo.svg"
-  },
-  {
-    "label": "High-fidelity voice synthesis",
+    "label": "🆓 High-fidelity voice synthesis",
     "description": "[speechma.com] High-fidelity voice synthesis for all your creative and professional needs.",
     "link": "https://speechma.com/",
     "imageUrl": "https://speechma.com/assets/images/speechmalogo.svg"
   },  
   {
-    "label": "An advanced AI audio technology tool",
-    "description": "[applio.org] Dive into a world of endless possibilities fueled by advanced AI audio technology [Select TTS]",
-    "link": "https://applio.org/products/playground",
+    "label": "👌 An advanced AI audio technology tool",
+    "description": "[applio.org] Opensource - Dive into a world of endless possibilities fueled by advanced AI audio technology [Select TTS]",
+    "link": "https://applio.org",
     "imageUrl": "https://applio.org/opengraph-image.png"
   },  
   {
-    "label": "Voice Models",
+    "label": "🆓 Voice Models",
     "description": "[voice-models.com] A platform for creating and sharing AI-generated voice models.",
     "link": "https://voice-models.com/",
     "imageUrl": "https://voice-models.com/assets/media/logos/logo-dark.png"
