@@ -22,5 +22,11 @@
     "description": "Liam Nakamura - AI-powered tool for swapping faces in images and videos seamlessly.",
     "link": "https://faceswapper.ai/",
     "imageUrl": "https://faceswapapp.ai/hero.png"
-  }
+  },
+  {
+    "label": "Create Avatar Videos",
+    "description": "Allows you to create talking videos from Avatar images",
+    "link": "https://vahe-avatarvideogenerator.hf.space",
+    "imageUrl": "https://huggingface.co/front/assets/huggingface_logo-noborder.svg"
+  }  
 ]
