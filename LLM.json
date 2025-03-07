@@ -84,6 +84,12 @@
     "imageUrl": "https://chat.deepseek.com/deepseek-chat.jpeg"
   },  
   {
+    "label": "Secret Llama is a free and fully private chatbot.",
+    "description": "Unlike ChatGPT, the models available here run entirely within your browser.",
+    "link": "https://secretllama.com/",
+    "imageUrl": "https://secretllama.com/favicon.png"
+  },  
+  {
     "label": "by You.com, Inc.",
     "description": "Enhance your productivity with AI.",
     "link": "https://you.com/?chatMode=default",
