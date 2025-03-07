@@ -72,10 +72,10 @@
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYm7rWa7WRPBuZwK8Eh5NPDzWF388fg1yQiw&s"
   },
   {
-    "label": "by Mistral AI",
-    "description": "Allows users to interact with various models through chat. ",
+    "label": "Open-source, efficient language models",
+    "description": "A highly efficient, customizable, and open-source large language models.",
     "link": "https://chat.mistral.ai/chat",
-    "imageUrl": "https://chat.mistral.ai/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fle-chat-logo-large-light.b98da676.png&w=384&q=75"
+    "imageUrl": "https://docs.mistral.ai/img/logo.svg"
   },
   {
     "label": "Cutting-edge AI tools for everyone by High-Flyer",
