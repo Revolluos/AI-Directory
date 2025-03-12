@@ -10,6 +10,12 @@
     "description": "Rapid prototyping and testing of these models, making it a valuable tool for developers interested in AI.",
     "link": "https://aistudio.google.com",
     "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-02.png"
+  }, 
+  {
+    "label": "by DuckDuckGo, Inc.",
+    "description": "[DuckDuckGo, Inc.] Duck.ai, is a privacy-focused tool to have conversations with models like GPT-4o mini, Meta Llama 3.3, Mistral Small 3, and Claude 3 Haiku.",
+    "link": "https://duckduckgo.com/?q=DuckDuckGo+AI+Chat&ia=chat&duckai=1",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_mrcJAMUsV6n0u7UXGQyvDVfw0xqjWedtzg&s"
   },  
   {  
     "label": "Perplexity (Private Company)",
