@@ -10,6 +10,12 @@
     "description": "nomorecopyright.com | Transform your images into unique, copyright-free versions instantly.",
     "link": "https://nomorecopyright.com/",
     "imageUrl": "https://nomorecopyright.com/assets/nomorecopyright_logo_icon-CV3k0YxF.png"
+  }, 
+  {
+    "label": "by NVIDIA and MIT",
+    "description": "Efficient High-Resolution Image Synthesis with Linear Diffusion Transformer.",
+    "link": "https://nv-sana.mit.edu/",
+    "imageUrl": "https://raw.githubusercontent.com/NVlabs/Sana/refs/heads/main/asset/logo.png"
   },  
   {
     "label": "by Elon Musk",
