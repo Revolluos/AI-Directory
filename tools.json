@@ -3,20 +3,26 @@
     "label": "by Dr. Sarah Chen",
     "description": "An interactive platform that allows users to create, archive, and share web simulations.",
     "link": "https://websim.ai/",
-    "imageUrl": "https://aiintensity.com/wp-content/uploads/2024/07/20240718_105620_0000.webp"
-  }, 
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D5622AQHsI4SwTXYVXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720328520369?e=2147483647&v=beta&t=23ZcxDHcVvPw_TFJu6fhCkYJjKPYuJRSQ4KFZ8ylwys"
+  },
+  {
+    "label": "Generate full-stack web applications by Together AI",
+    "description": "LlamaCoder is an AI tool that generates full-stack web applications from simple user prompts, powered by large language models.",
+    "link": "https://llamacoder.together.ai/",
+    "imageUrl": "https://llamacoder.together.ai/_next/static/media/logo.4a8eb9cb.png"
+  },  
   {
     "label": "by Summarist.ai",
     "description": "Summarist.ai uses AI/LLM technology to generate book summaries.",
     "link": "https://summarist.ai/",
     "imageUrl": "https://summarist.ai/static/logo.png"
-  },
+  }, 
   {
     "label": "Humanize AI text by humanizeai.pro",
     "description": "Transform your AI-generated content into natural, human-like text.",
     "link": "https://www.humanizeai.pro/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShzjKS-3x52ItoRsw3MBP5lWuMVfK81Da9Ww&s"
-  },  
+  },   
   {
     "label": "by Consensus",
     "description": "AI-powered search engine helps researchers find relevant academic papers and gain insights from them",
