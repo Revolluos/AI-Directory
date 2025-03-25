@@ -7,7 +7,7 @@
   },
   {
     "label": "Create consistent multiple images",
-    "description": "reve.art | Excels at prompt adherence, aesthetics, and typography",
+    "description": "https://preview.reve.art | Excels at prompt adherence, aesthetics, and typography",
     "link": "https://preview.reve.art/app",
     "imageUrl": "https://preview.reve.art/card.png"
   },   
@@ -92,7 +92,7 @@
     "label": "AI Face Swap by Pixlr.",
     "description": "Change faces between photos with just one click online for free and become whoever you want to be.",
     "link": "https://pixlr.com/face-swap/#face-swap-templates",
-    "imageUrl": "https://pixlr.com/learn/wp-content/uploads/2021/12/cropped-Pixlr2022.png"
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Pixlr_Logo.png"
   },
   {
     "label": "Face Swapping by PicLumen.",
@@ -159,6 +159,12 @@
     "description": "An AI image generator that creates images from textual descriptions.",
     "link": "https://chat.mistral.ai/chat",    
     "imageUrl": "https://i.ibb.co/23ftyyV/le-chat.png"
+  },  
+  {
+    "label": "Text & Photo to Coloring Page",
+    "description": "Colorify AI is the best AI-powered coloring page generator, sparking your kids' creativity with AI-designed coloring pages..",
+    "link": "https://colorifyai.art/",
+    "imageUrl": "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/colorify-logo-1.png"
   },  
   {
     "label": "by Craiyon LLC.",
