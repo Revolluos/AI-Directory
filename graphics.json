@@ -1,19 +1,25 @@
 [
   {
     "label": "by Canva",
-    "description": "Create visual assets from illustrations to marketing materials with unprecedented quality, speed, and style-consistency.",
+    "description": "Leonardo AI | Create visual assets from illustrations to marketing materials.",
     "link": "https://app.leonardo.ai/image-generation",
     "imageUrl": "https://i.ibb.co/BCTNvfj/leonardo-ai.jpg"
   },
   {
-    "label": "Create consistent multiple images",
-    "description": "https://preview.reve.art | Excels at prompt adherence, aesthetics, and typography",
+    "label": "by Reve Art",
+    "description": "Reve Art |  Create consistent multiple images, excels at prompt adherence, aesthetics, and typography",
     "link": "https://preview.reve.art/app",
     "imageUrl": "https://preview.reve.art/card.png"
-  },   
+  },
   {
-    "label": "Copyright-free images by nomorecopyright.com",
-    "description": "nomorecopyright.com | Transform your images into unique, copyright-free versions instantly.",
+    "label": "by Raphael AI",
+    "description": "Raphael AI | Create consistent multiple stunning AI-generated images in seconds",
+    "link": "https://raphael.app/",
+    "imageUrl": "https://raphael.app/logo.png"
+  },  
+  {
+    "label": "by Nomorecopyright",
+    "description": "No More Copyright | Images, transformed into unique, copyright-free versions.",
     "link": "https://nomorecopyright.com/",
     "imageUrl": "https://nomorecopyright.com/_next/static/media/nomorecopyright_logo_icon.12c77161.png"
   }, 
