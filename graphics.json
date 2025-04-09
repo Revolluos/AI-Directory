@@ -6,6 +6,12 @@
     "imageUrl": "https://i.ibb.co/BCTNvfj/leonardo-ai.jpg"
   },
   {
+    "label": "GenTube",
+    "description": "GenTube |  Create stunning visuals in just seconds",
+    "link": "https://www.gentube.app/",
+    "imageUrl": "https://www.gentube.app/images/gentube.svg"
+  },  
+  {
     "label": "by Reve Art",
     "description": "Reve Art |  Create consistent multiple images, excels at prompt adherence, aesthetics, and typography",
     "link": "https://preview.reve.art/app",
