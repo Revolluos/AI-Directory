@@ -16,7 +16,13 @@
     "description": "[Descript, Inc.] Edit your videos & podcasts just by typing. Descript's powerful AI editing tools let you make videos, podcasts, & short clips for social fast.",
     "link": "https://web.descript.com/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREzrZWGN6CpptEWtacUdcKsqNbcYVMKZ97YA&s"
-  },   
+  },
+  {
+    "label": "Text-to-Speech (TTS)",
+    "description": "[OpenAI's] An interactive web application showcasing it's Text-to-Speech (TTS) capabilities.",
+    "link": "https://www.openai.fm/",
+    "imageUrl": "https://www.openai.fm/og-image.png"
+  },  
   {
     "label": "The most realistic AI Speech.",
     "description": "[Hanabi AI Inc.] Beyond Text-to-Speech and Speech-to-Text, we deliver full Voice Agent solutions..",
