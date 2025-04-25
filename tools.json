@@ -10,7 +10,13 @@
     "description": "LlamaCoder is an AI tool that generates full-stack web applications from simple user prompts, powered by large language models.",
     "link": "https://llamacoder.together.ai/",
     "imageUrl": "https://llamacoder.together.ai/_next/static/media/logo.4a8eb9cb.png"
-  },  
+  }, 
+  {
+    "label": "AI Tools Directory",
+    "description": "Access the largest list of top-quality AI tools available on the web",
+    "link": "https://www.aixploria.com/en/free-ai/",
+    "imageUrl": "https://www.aixploria.com/wp-content/uploads/2024/01/logo-light-aixploria-2024.webp"
+  }, 
   {
     "label": "by Summarist.ai",
     "description": "Summarist.ai uses AI/LLM technology to generate book summaries.",
