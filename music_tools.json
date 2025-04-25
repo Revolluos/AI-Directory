@@ -1,0 +1,14 @@
+[
+  {
+    "label": "[Pablo] Song Identifier",
+    "description": "Find that song in your head with the help of AI",
+    "link": "https://www.songifier.xyz/",
+    "imageUrl": "https://www.songifier.xyz/logo.webp"
+  },
+  {
+    "label": "[Chordal] Summarises a song.",
+    "description": "SONOTELLER listens to music and creates a comprehensive summary about the song.",
+    "link": "https://sonoteller.ai/",
+    "imageUrl": "https://cdn-1.webcatalog.io/catalog/sonoteller/sonoteller-social-preview.png?v=1721019853180"
+  }  
+]
