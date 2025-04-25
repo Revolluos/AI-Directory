@@ -1,0 +1,38 @@
+[
+  {
+    "label": "by AI Face Swap",
+    "description": "Swap Your Face Online with AI Face Swapper",
+    "link": "https://aifaceswap.io/#face-swap-playground",
+    "imageUrl": "../images/graphics/faceswap.jpg"
+  },
+  {
+    "label": "Face Swapping by Remaker.",
+    "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
+    "link": "https://remaker.ai/face-swap-free/",
+    "imageUrl": "../images/graphics/remaker.jpg"
+  }, 
+  {
+    "label": "AI Face Swap by Pixlr.",
+    "description": "Change faces between photos with just one click online for free and become whoever you want to be.",
+    "link": "https://pixlr.com/face-swap/#face-swap-templates",
+    "imageUrl": "https://pixlr.com/learn/wp-content/uploads/2021/12/cropped-Pixlr2022.png"
+  },
+  {
+    "label": "Face Swapping by PicLumen.",
+    "description": "Free online face changer that allows you to swap heads and replace faces in photos.",
+    "link": "https://piclumen.com/app/image-generator/create",
+    "imageUrl": "https://www.piclumen.com/wp-content/uploads/2024/10/piclumen-flux-08.webp"
+  },  
+ {
+    "label": "Face Swapping by Dezgo.",
+    "description": "Edit an existing image to fit a given text description.",
+    "link": "https://dezgo.com/image2image",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSke-3U35HFB3LPAxJJjYlRVCm4AEzosYY1Mg&s"
+  },  
+ {
+    "label": "Deep Swapper",
+    "description": "High Quality AI Face Swaps For Free!",
+    "link": "https://www.deepswapper.com/",
+    "imageUrl": "https://www.deepswapper.com/opengraph-image.png?b808b023967130e4"
+  }
+]
