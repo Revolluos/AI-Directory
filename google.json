@@ -1,0 +1,74 @@
+[
+  {
+    "label": "MusicFX by Google",
+    "description": "MusicFX is an experimental technology that allows you to generate your own music.",
+    "link": "https://aitestkitchen.withgoogle.com/tools/music-fx",
+    "imageUrl": "https://storage.googleapis.com/labs-web-prod/music-fx-thumbnail.svg"
+  },
+  {
+    "label": "MusicFX DJ by Google",
+    "description": "MusicFX DJ lets you input multiple prompts to shape the music in real-time and create an evolving soundscape.",
+    "link": "https://aitestkitchen.withgoogle.com/tools/music-fx-dj",
+    "imageUrl": "https://lh3.googleusercontent.com/7CWJ9fVeC97FrWgcispxyms9gTL_1PIDMIwBYTQNnU8S56JaxGB2Z4ThqZ-1vBTO-u-UBZg_cYhG8PtZjYP0rPabUbg5x2cCUnNJuiZAZBsE8u7Kvig=w1200-h630-n-nu"
+  },
+  {
+    "label": "by Google",
+    "description": "Gemini is a powerful AI assistant that can help with tasks, provide information, and generate creative content across various formats.",
+    "link": "https://gemini.google.com/",
+    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png"
+  },
+  {
+    "label": "by Google",
+    "description": "Rapid prototyping and testing of these models, making it a valuable tool for developers interested in AI.",
+    "link": "https://aistudio.google.com",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-02.png"
+  },
+  {
+    "label": "by Google",
+    "description": "Create high-quality visual assets rapidly by inputting text prompts to generate detailed and stylistically diverse images.",
+    "link": "https://gemini.google.com/",
+    "imageUrl": "https://www.gstatic.com/lamda/images/gemini_thumbnail_c362e5eadc46ca9f617e2.png"
+  },
+  {
+    "label": "by Google",
+    "description": "Create photo-realistic images from simple text prompts",
+    "link": "https://aitestkitchen.withgoogle.com/tools/image-fx",
+    "imageUrl": "https://i.ibb.co/yftdPsg/imagefx.jpg"
+  },  
+  {
+    "label": "AI-generated chess",
+    "description": "Create custom, AI-generated chess sets and play online.",
+    "link": "https://labs.google/genchess",
+    "imageUrl": "https://storage.googleapis.com/labs-web-prod/genchess.webp"
+  },
+  {
+    "label": "Arts & Culture",
+    "description": "Google brings the world’s art and culture online for everyone.",
+    "link": "https://artsandculture.google.com/",
+    "imageUrl": "https://www.gstatic.com/culturalinstitute/images/gac-icon-200x200-v1.png"
+  },  
+  {
+    "label": "Create new recipes from two cuisines",
+    "description": "Get inspiration for your next meal and create new recipes mixing influences from two cuisines, generated with the help of Google AI.",
+    "link": "https://artsandculture.google.com/experiment/food-mood/HwHnGalZ3up0EA?hl=en",
+    "imageUrl": "https://lh3.googleusercontent.com/ci/AL18g_T4V947fyMdxraO1SsKBzZ7en4d8QQh2fKYiSTjez51ZPvBcmJ8eQeaoG6s-uHg79aLHSIz=s1200"
+  }, 
+  {
+    "label": "Create Custom Alphabets",
+    "description": "Create custom alphabets based on your own themed descriptions and prompts.",
+    "link": "https://labs.google/gentype",
+    "imageUrl": "https://storage.googleapis.com/gweb-developer-goog-blog-assets/images/gentype_devHero_02.original.png"
+  },  
+  {
+    "label": "Generates podcast and summaries",
+    "description": "Free AI research assistant summarizes your uploaded documents, answers questions based on them, and even generates audio overviews for on-the-go learning.",
+    "link": "https://notebooklm.google.com/",
+    "imageUrl": "https://notebooklm.google/_/static/branding/v4/og/notebook_lm_share.png"
+  },
+  {
+    "label": "Generate audio discussion of the contents of an Url",
+    "description": "Provide a URL, Illuminate will attempt to generate an audio dialogue with two AI-generated voices.",
+    "link": "https://illuminate.google.com/home",
+    "imageUrl": "https://lh3.googleusercontent.com/_0Ec7-msXYxAP4YGixr9JZVuOoESgp9ueO-xjB37qtNsH53eskbBU8N20WjgLXWAJpzG8Z5G8A6ZN_vvKwfxENO_pQ=s1280-w1280-h800"
+  }
+]
