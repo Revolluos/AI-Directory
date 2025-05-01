@@ -10,7 +10,13 @@
     "description": "LlamaCoder is an AI tool that generates full-stack web applications from simple user prompts, powered by large language models.",
     "link": "https://llamacoder.together.ai/",
     "imageUrl": "https://llamacoder.together.ai/_next/static/media/logo.4a8eb9cb.png"
-  }, 
+  },
+  {
+    "label": "Unlimited AI Creation Tools, 100% Free",
+    "description": "Free AI website designed to enhance your work and learning by offering free, unlimited access to all our tools.",
+    "link": "https://aifreebox.com/",
+    "imageUrl": "https://aifreebox.com/_next/image?url=%2Flogo.webp&w=48&q=75"
+  },  
   {
     "label": "AI Tools Directory",
     "description": "Access the largest list of top-quality AI tools available on the web",
