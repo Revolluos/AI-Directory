@@ -6,12 +6,6 @@
     "imageUrl": "https://i.ibb.co/BCTNvfj/leonardo-ai.jpg"
   },
   {
-    "label": "GenTube",
-    "description": "GenTube |  Create stunning visuals in just seconds",
-    "link": "https://www.gentube.app/",
-    "imageUrl": "https://www.gentube.app/images/gentube.svg"
-  },  
-  {
     "label": "by Reve Art",
     "description": "Reve Art |  Create consistent multiple images, excels at prompt adherence, aesthetics, and typography",
     "link": "https://preview.reve.art/app",
@@ -171,6 +165,12 @@
     "description": "An AI image generator that creates images from textual descriptions.",
     "link": "https://chat.mistral.ai/chat",    
     "imageUrl": "https://i.ibb.co/23ftyyV/le-chat.png"
+  },  
+  {
+    "label": "AI Coloring Pages Generator",
+    "description": "From classic themes like Disney coloring pages and dinosaur coloring pages to festive designs like Christmas coloring pages and Halloween coloring pages.",
+    "link": "https://aicoloringpages.net/",
+    "imageUrl": "https://file.aiquickdraw.com/imgcompressed/img/compressed_0ae6318fa179d0fde84fbc7bd05043b5.webp"
   },  
   {
     "label": "Text & Photo to Coloring Page",
