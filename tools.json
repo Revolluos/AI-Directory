@@ -1,10 +1,16 @@
 [
   {
+    "label": "Deepsite generate HTML",
+    "description": "An AI tool that can automatically generate websites and applications from a prompt.",
+    "link": "https://huggingface.co/spaces/enzostvs/deepsite",
+    "imageUrl": "https://cdn-lfs.hf.co/repos/96/a2/96a2c8468c1546e660ac2609e49404b8588fcf5a748761fa72c154b2836b4c83/fc95837e1bacb9b2cdbff9ae5d681ed8f20233b8fc72a65cdb38321ea9ddc015?response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo-with-title.svg%3B+filename%3D%22hf-logo-with-title.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&Expires=1747836550&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc0NzgzNjU1MH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2RuLWxmcy5oZi5jby9yZXBvcy85Ni9hMi85NmEyYzg0NjhjMTU0NmU2NjBhYzI2MDllNDk0MDRiODU4OGZjZjVhNzQ4NzYxZmE3MmMxNTRiMjgzNmI0YzgzL2ZjOTU4MzdlMWJhY2I5YjJjZGJmZjlhZTVkNjgxZWQ4ZjIwMjMzYjhmYzcyYTY1Y2RiMzgzMjFlYTlkZGMwMTU%7EcmVzcG9uc2UtY29udGVudC1kaXNwb3NpdGlvbj0qJnJlc3BvbnNlLWNvbnRlbnQtdHlwZT0qIn1dfQ__&Signature=XI2EqI71wNUjfLkvBoGODtkJbcAcL3MC5P2PPqNKtPT%7E8q-cCUB3QX%7Ecg6stru6C5ynhQRaz9j2uOTGn17tqsRqwSz0MEbYM%7EgUWUBB9Fty0t0cQlewXw05B3OQAv1KvddIpfJwlbKFuYugWD400CXvkrcqBv5F71WfwTquFwh5WLWKz77dNBvTQIeCu1RRMwlRv92tl%7EIqGgAoGAKquhaBaO-bSnJEgviIeTHCvbBgVwwr7SjOwCSR7nPne0wPMnwuCCZy3PjFQp79R5kQNWt74tffjZ2WQ2DX-tk3yHNvogW6o7FxmNWIii4Dz3W8QL2aFiSjFuHW1HbrFQK0YwA__&Key-Pair-Id=K3RPWS32NSSJCE"
+  },
+  {
     "label": "by Dr. Sarah Chen",
     "description": "An interactive platform that allows users to create, archive, and share web simulations.",
     "link": "https://websim.ai/",
     "imageUrl": "https://media.licdn.com/dms/image/v2/D5622AQHsI4SwTXYVXg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1720328520369?e=2147483647&v=beta&t=23ZcxDHcVvPw_TFJu6fhCkYJjKPYuJRSQ4KFZ8ylwys"
-  },
+  },  
   {
     "label": "Generate full-stack web applications by Together AI",
     "description": "LlamaCoder is an AI tool that generates full-stack web applications from simple user prompts, powered by large language models.",
@@ -17,6 +23,12 @@
     "link": "https://aifreebox.com/",
     "imageUrl": "https://aifreebox.com/_next/image?url=%2Flogo.webp&w=48&q=75"
   },  
+  {
+    "label": "The Best AI Tools & Applications Online",
+    "description": "Find the best AI tools for any task with the largest AI database online.",
+    "link": "https://bestofai.com/",
+    "imageUrl": "https://media.licdn.com/dms/image/v2/D5616AQH7SXpRfLJS_w/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1713372125094?e=2147483647&v=beta&t=qlEHf71t31uyvYV8TSoPjvFiPH8McOEP3aEANg1LtJU"
+  },   
   {
     "label": "AI Tools Directory",
     "description": "Access the largest list of top-quality AI tools available on the web",
