@@ -117,6 +117,18 @@
     "description": "High Quality AI Face Swaps For Free!",
     "link": "https://www.deepswapper.com/",
     "imageUrl": "https://www.deepswapper.com/opengraph-image.png?b808b023967130e4"
+  }, 
+ {
+    "label": "DreamO - a Hugging Face Space",
+    "description": "Generate highly customized images by providing reference images and a descriptive prompt.",
+    "link": "https://huggingface.co/spaces/ByteDance/DreamO",
+    "imageUrl": "https://cdn-thumbnails.huggingface.co/social-thumbnails/spaces/ByteDance/DreamO.png"
+  },
+ {
+    "label": "Face Swap Online Free",
+    "description": "Powerful online tool to seamlessly swap one face with another. The best face swapping application available.",
+    "link": "https://faceswapper.ai/swapper",
+    "imageUrl": "https://faceswapper.ai/logo/logo.svg"
   },  
   {
     "label": "AI Portrait Generator.",
