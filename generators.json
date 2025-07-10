@@ -22,5 +22,11 @@
     "description": "can generate poems of a variety of styles including haikus, sonnets (Shakespearian, Petrarchan, Spenserian, Donne’s).",
     "link": "https://chatgpt4online.org/ai-poem-generator/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDxG4V6XpTplyGfBNMXLC0aTPkGqYFByFdpg&s"
-  }
+  },
+  {
+    "label": "Creative playground powered by AI ⭐",
+    "description": "Generate images, audio, video, text, and even immersive 3D environments.",
+    "link": "https://pollinations.ai/",
+    "imageUrl": "https://pollinations.ai/banner.webp"
+  }  
 ]
