@@ -1,5 +1,11 @@
 [
   {
+    "label": "Z Chat by Z.ai",
+    "description": "A free AI chatbot powered by GLM-4.5, Z Chat offers advanced text generation, coding support, and multilingual assistance—tailored for both English and Chinese users.",
+    "link": "https://chat.z.ai/",
+    "imageUrl": "https://chat.z.ai/static/logoLight.png"
+  },  
+  {
     "label": "by Google",
     "description": "Gemini is a powerful AI assistant that can help with tasks, provide information, and generate creative content across various formats.",
     "link": "https://gemini.google.com/",
@@ -132,3 +138,4 @@
     "imageUrl": "https://docs.hamming.ai/api/og?division=Documentation&section=Guides&title=Prompt+Optimizer&description=Automatically+generates+the+best+prompt+for+your+AI+application.&logoLight=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Flight.svg&logoDark=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Fdark.svg&primaryColor=%230D9373&lightColor=%2307C983&darkColor=%230D9373"
   }  
 ]
+
