@@ -12,6 +12,12 @@
     "imageUrl": "https://preview.reve.art/card.png"
   },
   {
+    "label": "by Meitu (China) Limited",
+    "description": "Meitu | a versatile AI-powered design assistant for image editing, video creation, and graphic design through natural language interaction",
+    "link": "https://www.roboneo.com/home",
+    "imageUrl": "https://roboneo-public.meitudata.com/public/4e4eeae9/_next/static/media/home-logo.aa32449c.png"
+  },   
+  {
     "label": "by Raphael AI",
     "description": "Raphael AI | Create consistent multiple stunning AI-generated images in seconds",
     "link": "https://raphael.app/",
@@ -274,3 +280,4 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
