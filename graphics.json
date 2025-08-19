@@ -1,5 +1,11 @@
 [
   {
+    "label": "by Google",
+    "description": "Whisk | create and remix images using AI.",
+    "link": "https://labs.google/fx/tools/whisk/project",
+    "imageUrl": "https://i.ibb.co/ynYQrJFD/Whisk.png"
+  },  
+  {
     "label": "by Canva",
     "description": "Leonardo AI | Create visual assets from illustrations to marketing materials.",
     "link": "https://app.leonardo.ai/image-generation",
@@ -280,4 +286,5 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
 
