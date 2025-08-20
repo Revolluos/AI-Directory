@@ -4,6 +4,12 @@
     "description": "A free AI chatbot with advanced text generation, coding support, and multilingual assistance.",
     "link": "https://chat.z.ai/",
     "imageUrl": "https://chat.z.ai/static/logoLight.png"
+  },
+  {
+    "label": "privately held company",
+    "description": "LMArena.ai | offers a robust set of features designed to evaluate and compare AI models through community-driven interaction and transparent benchmarking.",
+    "link": "https://lmarena.ai/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPkUhBHXe7Sf-Q0BNHCT38JXPy9aOQ6zhVQ&s"
   },  
   {
     "label": "by Google",
@@ -138,5 +144,6 @@
     "imageUrl": "https://docs.hamming.ai/api/og?division=Documentation&section=Guides&title=Prompt+Optimizer&description=Automatically+generates+the+best+prompt+for+your+AI+application.&logoLight=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Flight.svg&logoDark=https%3A%2F%2Fmintlify.s3-us-west-1.amazonaws.com%2Fhamming%2Flogo%2Fdark.svg&primaryColor=%230D9373&lightColor=%2307C983&darkColor=%230D9373"
   }  
 ]
+
 
 
