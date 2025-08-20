@@ -4,7 +4,13 @@
     "description": "Whisk | create and remix images using AI.",
     "link": "https://labs.google/fx/tools/whisk/project",
     "imageUrl": "https://i.ibb.co/ynYQrJFD/Whisk.png"
-  },  
+  },
+  {
+    "label": "privately held company",
+    "description": "LMArena.ai | offers a robust set of features designed to evaluate and compare AI models through community-driven interaction and transparent benchmarking.",
+    "link": "https://lmarena.ai/",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPPkUhBHXe7Sf-Q0BNHCT38JXPy9aOQ6zhVQ&s"
+  },
   {
     "label": "by Canva",
     "description": "Leonardo AI | Create visual assets from illustrations to marketing materials.",
@@ -286,5 +292,6 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
 
 
