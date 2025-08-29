@@ -6,6 +6,36 @@
     "imageUrl": "https://i.ibb.co/ynYQrJFD/Whisk.png"
   },
   {
+    "label": "Pixshop - Photo Editing by Google",
+    "description": "A powerful, AI photo editor. Retouch, apply creative filters, and make professional adjustments to your images using simple text prompts.",
+    "link": "https://aistudio.google.com/apps/bundled/pixshop",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  },  
+  {
+    "label": "Home Canvas - create a photorealistic composite by Google",
+    "description": "Drag, drop, and visualise any product in your personal space.",
+    "link": "https://aistudio.google.com/apps/bundled/home_canvas",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  }, 
+  {
+    "label": "GemBooth - native image model effects with your webcam by Google",
+    "description": "Native image model effects with your webcam.",
+    "link": "https://aistudio.google.com/apps/bundled/gembooth",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  }, 
+  {
+    "label": "Past Forward - Generate yourself through the decades by Google",
+    "description": "Images of you reimagined in the iconic styles of different decades.",
+    "link": "https://aistudio.google.com/apps/bundled/past_forward",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  },   
+  {
+    "label": "Nano-Banana - Generate top quality images by Google",
+    "description": "Maintain character consistency and compose and merge images.",
+    "link": "https://aistudio.google.com/prompts/new_chat?model=gemini-2.5-flash-preview-image",
+    "imageUrl": "https://ai.google.dev/static/site-assets/images/share-ais-03.png"
+  },    
+  {
     "label": "privately held company",
     "description": "LMArena.ai | offers a robust set of features designed to evaluate and compare AI models through community-driven interaction and transparent benchmarking.",
     "link": "https://lmarena.ai/",
@@ -292,6 +322,7 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
 
 
 
