@@ -1,10 +1,16 @@
 [
   {
+    "label": "Google AI Studio's speech generation",
+    "description": "[Google AI Studio] Convert text into lifelike, synthesised speech using a variety of voices and styles.",
+    "link": "https://aistudio.google.com/generate-speech",
+    "imageUrl": "https://i.ytimg.com/vi/0RWZKI8xkuE/maxresdefault.jpg"
+  },
+{
     "label": "Realistic Voices",
-    "description": "[ElevenLabs] Create realistic AI voices in many languages for projects like audiobooks.",
+    "description": "[ElevenLabs] Create realistic AI voices in many languages for projects like audiobooks.",  
     "link": "https://elevenlabs.io/",
     "imageUrl": "https://elevenlabs.io/cover.png"
-  },
+  },  
   {
     "label": "Text-to-speech converter.",
     "description": "[ByteDance] CapCut's free  enables you to create immersive voices that engage the audience.",
@@ -114,3 +120,4 @@
     "imageUrl": "https://voice-models.com/assets/media/logos/logo-dark.png"
   }
 ]
+
