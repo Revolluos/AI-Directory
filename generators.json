@@ -6,6 +6,12 @@
     "imageUrl": "https://logos-world.net/wp-content/uploads/2025/02/Google-Gemini-Logo-500x281.png"
   },
   {
+    "label": "Firebase Studio by Google",
+    "description": "[Firebase Studio] an AI-powered web workspace for building, testing, and deploying full-stack apps collaboratively.",
+    "link": "https://studio.firebase.google.com/",
+    "imageUrl": "https://www.gstatic.com/monospace/250314/icon-192.png"
+  },  
+  {
     "label": "Generate Illustrated Stories",
     "description": "[We Made a Story] Simply write your idea in a sentence or two, and let the AI do the rest! Try it for free.",
     "link": "https://www.wemadeastory.com/",
@@ -42,6 +48,7 @@
     "imageUrl": "https://pollinations.ai/banner.webp"
   }  
 ]
+
 
 
 
