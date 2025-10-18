@@ -1,10 +1,22 @@
 [
 {
     "label": "Prompt Generator for Images",
-    "description": "[Image Generator] This AI tool adds rich detail, creative angles, and artistic flair to your prompts—perfect for any image generator.",
+    "description": "[Image Prompt Generator] This AI tool adds rich detail, creative angles, and artistic flair to your prompts—perfect for any image generator.",
     "link": "https://theresanaiforthat.com/@maxcasu/prompt-enhancer-generator/",
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  },
+{
+    "label": "Image to Image Generator",
+    "description": "[Image to Image Generator] Drag and drop an image and enter a prompt to change it",
+    "link": "https://theresanaiforthat.com/@taaft/image-to-image-generator",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
   }, 
+{
+    "label": "Text Generator",
+    "description": "[Text Generator] Your go-to AI for great writing. It adapts to your style and audience, creating sharp, polished content for blogs, articles, stories, and more",
+    "link": "https://theresanaiforthat.com/@taaft/text-generator/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  },         
   {
     "label": "Generate Children's Stories",
     "description": "[Storybook] Create a customised picture book, for either children or adults, given a topic, an optional target audience age, and an optional art style for the images.",
@@ -54,6 +66,7 @@
     "imageUrl": "https://pollinations.ai/banner.webp"
   }  
 ]
+
 
 
 
