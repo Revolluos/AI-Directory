@@ -1,4 +1,10 @@
 [
+{
+    "label": "Prompt Generator for Images",
+    "description": "[Storybook] This AI tool adds rich detail, creative angles, and artistic flair to your prompts—perfect for any image generator.",
+    "link": "https://theresanaiforthat.com/@maxcasu/prompt-enhancer-generator/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  }, 
   {
     "label": "Generate Children's Stories",
     "description": "[Storybook] Create a customised picture book, for either children or adults, given a topic, an optional target audience age, and an optional art style for the images.",
@@ -48,6 +54,7 @@
     "imageUrl": "https://pollinations.ai/banner.webp"
   }  
 ]
+
 
 
 
