@@ -6,7 +6,7 @@
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
   },
 {
-    "label": "Prompt Generator for Images",
+    "label": "Prompt Generator for pro-photography Images",
     "description": "[Image Prompt Generator] This AI tool adds rich detail, creative angles, and artistic flair to your prompts—perfect for any image generator.",
     "link": "https://theresanaiforthat.com/@maxcasu/pro-photography-prompt-generator/",
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
@@ -22,7 +22,13 @@
     "description": "[Image to Image Generator] Drag and drop an image and enter a prompt to change it",
     "link": "https://theresanaiforthat.com/@taaft/image-to-image-generator",
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
-  }, 
+  },
+{
+    "label": "Image Generator",
+    "description": "[Image Generator] FLUX PRO: Unleash creativity with AI-powered image generation.t",
+    "link": "https://theresanaiforthat.com/@maxcasu/prompt-generator/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  },     
 {
     "label": "Text Generator",
     "description": "[Text Generator] Your go-to AI for great writing. It adapts to your style and audience, creating sharp, polished content for blogs, articles, stories, and more",
@@ -78,6 +84,7 @@
     "imageUrl": "https://pollinations.ai/banner.webp"
   }  
 ]
+
 
 
 
