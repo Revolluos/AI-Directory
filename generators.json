@@ -24,11 +24,17 @@
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
   },
 {
-    "label": "Image Generator",
+    "label": "Image Generator-1",
+    "description": "[Image Generator-1] Unleash your imagination with our versatile AI image generator.",
+    "link": "https://theresanaiforthat.com/@taaft/image-generator/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  }, 
+{
+    "label": "Image Generator-2",
     "description": "[Image Generator] FLUX PRO: Unleash creativity with AI-powered image generation.t",
     "link": "https://theresanaiforthat.com/@maxcasu/prompt-generator/",
     "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
-  },     
+  },    
 {
     "label": "Text Generator",
     "description": "[Text Generator] Your go-to AI for great writing. It adapts to your style and audience, creating sharp, polished content for blogs, articles, stories, and more",
@@ -84,6 +90,7 @@
     "imageUrl": "https://pollinations.ai/banner.webp"
   }  
 ]
+
 
 
 
