@@ -239,11 +239,17 @@
     "imageUrl": "https://colorifyai.art/wp-content/uploads/sites/7/2024/04/colorify-logo-1.png"
   },  
   {
+    "label": "Adult Coloring Book Page Generator.",
+    "description": "Transform your ideas into intricate, adult-friendly coloring pages with our AI generator.",
+    "link": "https://theresanaiforthat.com/@adielsolomons/adult-coloring-book-page-generator/",
+    "imageUrl": "https://theresanaiforthat.com/favicon-large.png"
+  }, 
+  {
     "label": "by Craiyon LLC.",
     "description": "Create AI Art with this free AI image generator.",
     "link": "https://www.craiyon.com/",
     "imageUrl": "https://i.ibb.co/sKBFQDJ/Craiyon-ai.jpg"
-  },  
+  },   
   {
     "label": "by AIColoringPages [$0]",
     "description": "From classic themes like Disney coloring pages and dinosaur coloring pages.",
@@ -322,6 +328,7 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
 
 
 
