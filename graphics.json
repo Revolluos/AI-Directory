@@ -1,5 +1,17 @@
 [
   {
+    "label": "by berrry",
+    "description": "AI Store Generator | Turn any brand into an adorable miniature concept store!.",
+    "link": "https://tinybrand.berrry.app/",
+    "imageUrl": "https://commons.wikimedia.org/wiki/File:Banana-Single.jpg"
+  },
+  {
+    "label": "by Google",
+    "description": "Whisk | create and remix images using AI.",
+    "link": "https://labs.google/fx/tools/whisk/project",
+    "imageUrl": "https://i.ibb.co/ynYQrJFD/Whisk.png"
+  },
+  {
     "label": "by Google",
     "description": "Whisk | create and remix images using AI.",
     "link": "https://labs.google/fx/tools/whisk/project",
@@ -328,6 +340,7 @@
     "imageUrl": "https://cdn.unblurimage.ai/userspace/unblurimage/logo/unblur_brand_transparentbg.png"
   }   
 ]
+
 
 
 
