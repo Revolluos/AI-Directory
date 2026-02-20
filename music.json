@@ -22,13 +22,7 @@
     "description": "Sonauto - An AI-powered music generator that lets you create full, original songs with lyrics from any idea.",
     "link": "https://sonauto.ai/",
     "imageUrl": "https://sonauto.ai/SonautoBird.svg"
-  },  
-  {
-    "label": "⭐ [Forsgren & Martiros] Full length, studio quality songs.",
-    "description": "Riffusion - you can generate full length, studio quality songs by simply prompting the models with an idea, a phrase, or a melody.",
-    "link": "https://www.riffusion.com/",
-    "imageUrl": "https://www.riffusion.com/logo.svg"
-  },  
+  },    
   {
     "label": "[Weights Inc.] Create AI Song.",
     "description": "Riffusion - Create a new song by choosing a reference track and custom lyrics.",
@@ -40,13 +34,7 @@
     "description": "imusicai - Unleash your creativity to generate delightful music, perfect for special gifts or enhancing your visual content.",
     "link": "https://imusicai.app/apps/ai-music-generator",
     "imageUrl": "https://imusicai.app/logo.png"
-  },  
-  {
-    "label": "[CodeOne Ltd] - AI Music & Song Generator",
-    "description": "CodeOne - With just a few simple steps, you can create mind-blowing music tracks using the AI Song Generator.",
-    "link": "https://aisonggenerator.io",
-    "imageUrl": "https://aisonggenerator.io/logo800*800.webp"
-  },  
+  },    
   {
     "label": "[Google] - Generate your own music.",
     "description": "MusicFX is an experimental technology that allows you to generate your own music.",
@@ -78,12 +66,6 @@
     "imageUrl": "https://media.theresanaiforthat.com/icons/music-generator@2177553.png?width=100"
   },
   {
-    "label": "[Pablo] Song Identifier",
-    "description": "Find that song in your head with the help of AI",
-    "link": "https://www.songifier.xyz/",
-    "imageUrl": "https://www.songifier.xyz/logo.webp"
-  },
-  {
     "label": "[Chordal] Summarises a song.",
     "description": "SONOTELLER listens to music and creates a comprehensive summary about the song.",
     "link": "https://sonoteller.ai/",
@@ -96,4 +78,5 @@
     "imageUrl": "https://cdn-tunes.freepik.com/843fc28/images/opengraph.jpg"
   }  
 ]
+
 
