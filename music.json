@@ -4,7 +4,13 @@
     "description": "On Producer you can generate full length, studio quality songs by simply prompting our models with an idea, a phrase, or a melody.",
     "link": "https://www.producer.ai/",
     "imageUrl": "https://www.producer.ai/producer-logo-full-dark.png"
-  }, 
+  },
+  {
+    "label": "⭐ [Google’s Lyria.] A Next‑Generation AI Model for Music and Sound Creation",
+    "description": "Google’s Lyria is an advanced AI music‑generation model that transforms text, images, or videos into short, high‑quality audio tracks.",
+    "link": "https://gemini.google.com/music",
+    "imageUrl": "https://thedailystar.net/sites/default/files/styles/big_202/public/images/2023/11/17/google-lyria-music-ai.jpg"
+  },   
   {
     "label": "⭐ [Muse Group] Create music and songs.",
     "description": "Muse Group - Create music and songs from simple text prompts by specifying topics, genres, and other descriptors which are then transformed into professional quality tracks.",
@@ -78,5 +84,6 @@
     "imageUrl": "https://cdn-tunes.freepik.com/843fc28/images/opengraph.jpg"
   }  
 ]
+
 
 
