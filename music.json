@@ -1,9 +1,9 @@
 [
   {
     "label": "⭐ [Corpusant, Inc.] Original songs from text descriptions and audio clips.",
-    "description": "On Riffusion you can generate full length, studio quality songs by simply prompting our models with an idea, a phrase, or a melody.",
-    "link": "https://www.riffusion.com/",
-    "imageUrl": "https://www.riffusion.com/logo.svg"
+    "description": "On Producer you can generate full length, studio quality songs by simply prompting our models with an idea, a phrase, or a melody.",
+    "link": "https://www.producer.ai/",
+    "imageUrl": "https://www.producer.ai/producer-logo-full-dark.png"
   }, 
   {
     "label": "⭐ [Muse Group] Create music and songs.",
@@ -17,6 +17,12 @@
     "link": "https://suno.com/",
     "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT67XAuEiPDDrQJ3g-TY6Zyy2kYe1wefm8OXQ&s"
   },
+  {
+    "label": "⭐ [Sonauto, Inc.] Create music and songs.",
+    "description": "Sonauto - An AI-powered music generator that lets you create full, original songs with lyrics from any idea.",
+    "link": "https://sonauto.ai/",
+    "imageUrl": "https://sonauto.ai/SonautoBird.svg"
+  },  
   {
     "label": "⭐ [Forsgren & Martiros] Full length, studio quality songs.",
     "description": "Riffusion - you can generate full length, studio quality songs by simply prompting the models with an idea, a phrase, or a melody.",
@@ -90,3 +96,4 @@
     "imageUrl": "https://cdn-tunes.freepik.com/843fc28/images/opengraph.jpg"
   }  
 ]
+
