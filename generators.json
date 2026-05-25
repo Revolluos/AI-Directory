@@ -1,5 +1,17 @@
 [
 {
+    "label": "Storyboard Studio",
+    "description": "[Storyboard Studio] Write a script, create the cast, and visualise a storyboard.",
+    "link": "https://labs.google/fx/tools/flow/shared/tool/79c9d2e6-4ad6-4636-ad05-22022f8a5a74",
+    "imageUrl": "https://www.gstatic.com/aitestkitchen/website/flow/landing_page/landing_applets__author_image__0.png"
+  },   
+{
+    "label": "Character X-ray",
+    "description": "[Character X-ray] Develop your characters and their backstory.",
+    "link": "https://labs.google/fx/tools/flow/shared/tool/32f2b8f8-a1a9-43ed-899f-c0fbff2e9599",
+    "imageUrl": "https://www.gstatic.com/aitestkitchen/website/flow/landing_page/landing_applets__author_image__8.png"
+  },    
+{
     "label": "Prompt Generator for Images",
     "description": "[Image Prompt Generator] This AI tool adds rich detail, creative angles, and artistic flair to your prompts—perfect for any image generator.",
     "link": "https://theresanaiforthat.com/@maxcasu/prompt-enhancer-generator/",
